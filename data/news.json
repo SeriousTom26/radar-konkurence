@@ -81,7 +81,7 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
       "evidenceChecked": "2026-11-26",
       "product": {
         "definition": "Sociální síť uvnitř sázkové aplikace. Uživatel má vlastní komunitní profil, sleduje další členy a pracuje s obsahem navázaným na sportovní události.",
@@ -144,9 +144,9 @@
       "screenshot": "screenshots/39420ffeb21e73f9aadf06.png",
       "screenshotDate": "2026-11-26",
       "screenshotSource": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial",
-      "evidenceVersion": 2,
+      "evidenceVersion": 4,
       "evidenceChecked": "2026-11-26",
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zachována ručně ověřená česká produktová analýza",
       "description": {
         "what": "Krátkodobá tematická soutěž uvnitř SuperSocial, oddělená od běžného komunitního feedu.",
         "how": "Samostatná výzva má vlastní podmínky a pořadí. Její vstupní bod je propojen s feedem, profilem a relevantním tiketem. Jednotlivé edice používají různá témata a bodovací podmínky.",
@@ -163,7 +163,7 @@
       "media": [
         {
           "url": "https://support.superbet.pl/hc/article_attachments/40691396213394",
-          "label": "Oficiální obrazová příloha",
+          "label": "wyzwanie GTA Supersocial",
           "kind": "image",
           "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
         }
@@ -203,7 +203,7 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
       "evidenceChecked": "2026-11-26",
       "product": {
         "definition": "Sociální vrstva Betana, která sdružuje sázkový i herní obsah v jednom uživatelském prostoru.",
@@ -251,9 +251,9 @@
       "screenshot": "screenshots/e02b8d7f439b7b140288a8.png",
       "screenshotDate": "2026-11-26",
       "screenshotSource": "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/",
-      "evidenceVersion": 2,
+      "evidenceVersion": 4,
       "evidenceChecked": "2026-11-26",
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zachována ručně ověřená česká produktová analýza",
       "description": {
         "what": "Bezplatná interaktivní živá vědomostní hra vyvinutá v Kaizen Labs. Nejde o klasickou tipovačku výsledků, ale o kvízový pořad.",
         "how": "Kvíz kombinuje témata sportu, zábavy a popkultury. Generativní AI vytváří dynamický obsah i audiovizuální prvky a virtuální moderátor provází diváky živým pořadem. Výsledkem je jednotný produkt, který lze provozovat na různých trzích bez klasického fyzického studia.",
@@ -279,7 +279,25 @@
         },
         {
           "url": "https://kaizengaming.com/wp-content/uploads/2026/06/Betano-Trivia.png",
-          "label": "Oficiální obrazová příloha",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/"
+        },
+        {
+          "url": "https://kaizengaming.com/wp-content/uploads/2026/11/1920x1080_Hello_Philippines_P4-1.png",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/"
+        },
+        {
+          "url": "https://kaizengaming.com/wp-content/uploads/2026/10/FLAMENGO-X-FLUMINENSE-BRASILEIRO-MARACANA-11-10-2026-36-1-scaled.jpg",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/"
+        },
+        {
+          "url": "https://kaizengaming.com/wp-content/uploads/2026/06/KT4_8519-1-1.jpg",
+          "label": "Obrázek publikovaný ve zdroji",
           "kind": "image",
           "source": "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/"
         }
@@ -320,7 +338,7 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
       "evidenceChecked": "2026-11-26",
       "product": {
         "definition": "Bezplatný predikční produkt, ve kterém jsou sportovní otázky uspořádané do turnajů.",
@@ -367,7 +385,7 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
       "evidenceChecked": "2026-11-26",
       "product": {
         "definition": "Sociální produkt Sisalu postavený na tipérských profilech a sportovním obsahu.",
@@ -415,7 +433,7 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
       "evidenceChecked": "2026-11-26",
       "product": {
         "definition": "Komunitní feed integrovaný do mobilní aplikace Sportsbet, zaměřený na sportovní a dostihové příspěvky.",
@@ -462,7 +480,7 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
       "evidenceChecked": "2026-11-26",
       "product": {
         "definition": "Skupinový sázkový režim, ve kterém existuje společný účetní kontext pro skupinu přátel.",
@@ -517,7 +535,7 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
       "evidenceChecked": "2026-11-26",
       "product": {
         "definition": "Formát predikčních soutěží založených na kartě sportovních událostí.",
@@ -565,9 +583,9 @@
       "screenshot": "screenshots/ea36945fba0e841000b422.png",
       "screenshotDate": "2026-11-26",
       "screenshotSource": "https://pomoc.sts.pl/wizjoner/",
-      "evidenceVersion": 2,
+      "evidenceVersion": 4,
       "evidenceChecked": "2026-11-26",
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zachována ručně ověřená česká produktová analýza",
       "description": {
         "what": "Bezplatná predikční hra pro ověřené zákazníky STS.",
         "how": "Každé kolo obsahuje nový soubor zápasů. Hra vyhodnotí počet správných predikcí a podle pravidel kola určuje odpovídající bonus. Rozhraní je umístěno v sekci Promoce aplikace i v hlavním menu webu.",
@@ -587,37 +605,37 @@
       "media": [
         {
           "url": "https://cdn.livechat-files.com/api/file/kb/file/4965271/4fa4b99d9e-2c9ff576b9ae7b32f467.png",
-          "label": "Oficiální obrazová příloha",
+          "label": "Obrázek publikovaný ve zdroji",
           "kind": "image",
           "source": "https://pomoc.sts.pl/wizjoner/"
         },
         {
           "url": "https://cdn.livechat-files.com/api/file/kb/file/4965271/6d911c5b7b-08dd35889e08fd38315d.png",
-          "label": "Oficiální obrazová příloha",
+          "label": "Obrázek publikovaný ve zdroji",
           "kind": "image",
           "source": "https://pomoc.sts.pl/wizjoner/"
         },
         {
           "url": "https://cdn.livechat-files.com/api/file/kb/file/4965271/3cbd898932-9580f8e0cebd4a1f32c5.png",
-          "label": "Oficiální obrazová příloha",
+          "label": "Obrázek publikovaný ve zdroji",
           "kind": "image",
           "source": "https://pomoc.sts.pl/wizjoner/"
         },
         {
           "url": "https://cdn.livechat-files.com/api/file/kb/file/4965271/c6d92b7df6-c1074dceeb600e62a6bb.png",
-          "label": "Oficiální obrazová příloha",
+          "label": "Obrázek publikovaný ve zdroji",
           "kind": "image",
           "source": "https://pomoc.sts.pl/wizjoner/"
         },
         {
           "url": "https://cdn.livechat-files.com/api/file/kb/file/4965271/9b9f1996e3-91a1f7433b5ed96c0ad8.png",
-          "label": "Oficiální obrazová příloha",
+          "label": "Obrázek publikovaný ve zdroji",
           "kind": "image",
           "source": "https://pomoc.sts.pl/wizjoner/"
         },
         {
           "url": "https://cdn.livechat-static.com/api/file/kb/file/4965271/66d7661d16-e6556a56c2722ed3a6a5.png",
-          "label": "Titulní obrázek zdroje",
+          "label": "Titulní obrázek článku (nemusí jít o screenshot aplikace)",
           "kind": "cover",
           "source": "https://pomoc.sts.pl/wizjoner/"
         }
@@ -657,9 +675,9 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceVersion": 2,
+      "evidenceVersion": 4,
       "evidenceChecked": "2026-11-26",
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zachována ručně ověřená česká produktová analýza",
       "description": {
         "what": "Portfolio věrnostních produktů STS, z nichž STS Club je samostatný bodový program.",
         "how": "STS Club eviduje virtuální mince a katalog odměn. Winbooster představuje jiný typ odměny než běžný bonus; je dostupný také v katalogu. BonuSeria a Maraton jsou další samostatné programy, nikoli totéž co STS Club.",
@@ -674,7 +692,7 @@
       "media": [
         {
           "url": "https://cdn.livechat-static.com/api/file/kb/file/4965271/66d7661d16-e6556a56c2722ed3a6a5.png",
-          "label": "Titulní obrázek zdroje",
+          "label": "Titulní obrázek článku (nemusí jít o screenshot aplikace)",
           "kind": "cover",
           "source": "https://pomoc.sts.pl/promocje-i-bonusy/"
         }
@@ -717,7 +735,7 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
       "evidenceChecked": "2026-11-26",
       "product": {
         "definition": "Sociální časová osa SBK dostupná přímo z hlavní stránky mobilní aplikace.",
@@ -776,7 +794,7 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
       "evidenceChecked": "2026-11-26",
       "product": {
         "definition": "Odměnový program navázaný na sdílený obsah v SBK Bet Feed.",
@@ -821,9 +839,9 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceVersion": 2,
+      "evidenceVersion": 4,
       "evidenceChecked": "2026-11-26",
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zachována ručně ověřená česká produktová analýza",
       "description": {
         "what": "Pravidelná bezplatná fotbalová tipovačka šesti zápasů, oddělená od klasického sázení.",
         "how": "Každé kolo obsahuje šest určených fotbalových zápasů a porovnává predikce s výsledky. Vedle celkové soutěže existují soukromé miniligy, v nichž se mohou porovnávat přátelé.",
@@ -837,7 +855,20 @@
       "sourceHeadings": [
         "icon_arrow-right Round 19 icon_arrow-right"
       ],
-      "media": [],
+      "media": [
+        {
+          "url": "https://e0.365dm.com/24/09/768x432/skysports-super-6-winner_6674743.jpg?20240904095121",
+          "label": "Tom from Southampton became a millionaire for free with Super 6 after correctly predicting all six scorelines!",
+          "kind": "image",
+          "source": "https://www.skysports.com/games"
+        },
+        {
+          "url": "https://e0.365dm.com/20/09/1024x453/skysports-nfl-pickem_5092995.png?20200911112626",
+          "label": "NFL Pick Em",
+          "kind": "image",
+          "source": "https://www.skysports.com/games"
+        }
+      ],
       "product": {
         "definition": "Pravidelná bezplatná fotbalová tipovačka šesti zápasů, oddělená od klasického sázení.",
         "principle": "Každé kolo obsahuje šest určených fotbalových zápasů a porovnává predikce s výsledky. Vedle celkové soutěže existují soukromé miniligy, v nichž se mohou porovnávat přátelé.",
@@ -881,7 +912,7 @@
         "changes": "Nová tematická edice; změna základní mechaniky nedoložena.",
         "type": "Nová edice soutěže"
       },
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
       "product": {
         "definition": "Samostatná bezplatná hra SBK Arena v zimní šestitýdenní soutěžní edici.",
         "principle": "Soutěž používá skóre účastníků a konečné pořadí. Veřejný popis uvádí výhry ve formě bonusových tokenů. Detail způsobu výpočtu skóre se nepodařilo ověřit v plném znění pravidel.",
@@ -901,7 +932,8 @@
         ],
         "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
       },
-      "media": []
+      "media": [],
+      "evidenceChecked": "2026-11-26"
     },
     {
       "id": "superbet-ro-nov23-2026",
@@ -925,7 +957,7 @@
         "changes": "Nová tematická edice; změna základní mechaniky nedoložena.",
         "type": "Nová edice soutěže"
       },
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zachována ručně ověřená česká produktová analýza",
       "product": {
         "definition": "Časově omezená výzva SuperSocial na rumunském trhu, navázaná na konkrétní typ sázkového produktu.",
         "principle": "Soutěž má samostatné přihlášení v komunitní sekci a bodovací tabulku. Podmínky vymezují kvalifikované typy výběrů, z nichž se počítá výsledné skóre. Nelze ji zaměňovat s novým komunitním modulem.",
@@ -946,7 +978,29 @@
         ],
         "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
       },
-      "media": []
+      "media": [
+        {
+          "url": "https://superbet-content.freetls.fastly.net/assets/bec82c0c-313b-42c1-a7e8-669b63729ae9.png",
+          "label": "https://superbet.onelink.me/8IRb/hidcgy25",
+          "kind": "image",
+          "source": "https://superbet.ro/wiki/provocarea-101-betbuilder-23112026"
+        }
+      ],
+      "evidenceVersion": 4,
+      "evidenceChecked": "2026-11-26",
+      "sourceTitle": "Acceptă Provocarea Bet Builder și Câștigă un Pariu Gratuit",
+      "sourcePublished": null,
+      "sourceExcerpt": "Plasează un bilet cu o cotă totală de cel puțin 1.30 , pre-meci sau live .",
+      "sourceHeadings": [
+        "Câștigă până la 20.000 lei Pariu Gratuit",
+        "Premii",
+        "🏆 Pariuri Gratuite cu valori cuprinse între 2000 și 20.000 de lei, pentru primele 5 locuri din ligă, după cum urmează:",
+        "Cum particip?",
+        "Cum se acordă punctele în clasament?",
+        "Când se acordă Pariul Gratuit?",
+        "Cum joc Pariul Gratuit?",
+        "Ce trebuie să mai știu despre Pariul Gratuit?"
+      ]
     },
     {
       "id": "sisal-time-escape-2026",
@@ -970,7 +1024,7 @@
         "changes": "Nová tematická edice; změna základní mechaniky nedoložena.",
         "type": "Opakovaná edice bonusové hry"
       },
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
       "additionalSources": [
         "https://www.sisal.it/news/"
       ],
@@ -996,7 +1050,8 @@
         ],
         "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
       },
-      "media": []
+      "media": [],
+      "evidenceChecked": "2026-11-26"
     },
     {
       "id": "draftkings-21-rivals-2026",
@@ -1020,7 +1075,7 @@
         "changes": "Oznámen nový herní formát; další změny neověřeny.",
         "type": "Nový herní produkt"
       },
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
       "product": {
         "definition": "Nový soutěžní karetní formát DraftKings Rivals, v němž proti sobě nastupují dva zákazníci.",
         "principle": "Na rozdíl od tradiční hry proti provozovateli je výsledek založen na porovnání výkonu dvou účastníků. Oborové zdroje popisují krátký vícekolový duel se stejnou sekvencí karet. Přesná implementace a dostupnost nebyly plně ověřeny.",
@@ -1042,7 +1097,8 @@
         ],
         "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
       },
-      "media": []
+      "media": [],
+      "evidenceChecked": "2026-11-26"
     },
     {
       "id": "sts-maraton-plus-nov2026",
@@ -1066,7 +1122,7 @@
         "changes": "Nová tematická edice; změna základní mechaniky nedoložena.",
         "type": "Opakovaná edice soutěže"
       },
-      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
       "product": {
         "definition": "Časově omezená edice dlouhodobého programu STS Maraton.",
         "principle": "Základní formát Maratonu je čtrnáctidenní soutěž s opakovanou denní kvalifikací. Pravidla jednotlivých edic popisují rozdělení odměn mezi účastníky a další rankingové podmínky. Varianta Plus představuje novou edici, nikoli prokázané zavedení nové platformy.",
@@ -1087,7 +1143,820 @@
         ],
         "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
       },
-      "media": []
+      "media": [],
+      "evidenceChecked": "2026-11-26"
+    },
+    {
+      "id": "7c77090141fa5237660e",
+      "company": "sisal",
+      "category": "komunita",
+      "title": "Entra nella Sisal Community",
+      "summary": "Automaticky zachycená změna – viz veřejný zdroj.",
+      "detail": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+      "url": "https://www.sisal.it/community",
+      "date": null,
+      "detected": "2026-11-26",
+      "baseline": false,
+      "kind": "Nově nalezený článek – k ověření",
+      "source": "Veřejný zdroj",
+      "confidence": "Automaticky zachycený kandidát; datum vydání produktu neověřeno",
+      "screenshot": null,
+      "evidenceVersion": 4,
+      "evidenceChecked": "2026-11-26",
+      "evidenceStatus": "Překladový model nedostupný; stávající analýza zachována",
+      "product": {
+        "definition": "Automaticky zachycená změna – viz veřejný zdroj.",
+        "principle": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+        "features": [],
+        "rewards": "Nedoloženo.",
+        "availability": "Nedoloženo.",
+        "unknowns": "Zdroj vyžaduje podrobnější ověření.",
+        "excerptCs": "",
+        "headingsCs": [],
+        "language": "cs",
+        "sources": [
+          "https://www.sisal.it/community"
+        ],
+        "method": "Základní výpis"
+      },
+      "sourceTitle": "Entra nella Sisal Community",
+      "sourcePublished": null,
+      "sourceExcerpt": "Scopri un nuovo modo di vivere il gioco: incontra amici, condividi passioni e partecipa a sfide ed eventi",
+      "sourceHeadings": [
+        "Perché entrare a farne parte?",
+        "Come funziona?",
+        "Funzionalità della Sisal Community",
+        "Crea il tuo profilo",
+        "Costruisci la tua rete",
+        "Chatta con i tuoi amici",
+        "Partecipa alle missioni"
+      ],
+      "media": [
+        {
+          "url": "https://www.sisal.it/content/dam/new-dam/italy/canali/sisal-it/community/hp-no-log/bg_desk.png",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://www.sisal.it/community"
+        },
+        {
+          "url": "https://www.sisal.it/content/dam/new-dam/italy/canali/sisal-it/community/hp-no-log/ImmaginiHP.png/_jcr_content/renditions/original",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://www.sisal.it/community"
+        },
+        {
+          "url": "https://www.sisal.it/content/dam/new-dam/italy/canali/sisal-it/community/hp-no-log/flair.png/_jcr_content/renditions/original",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://www.sisal.it/community"
+        },
+        {
+          "url": "https://www.sisal.it/content/dam/new-dam/italy/canali/sisal-it/community/hp-no-log/ImmagineHP2.jpg/_jcr_content/renditions/original",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://www.sisal.it/community"
+        }
+      ]
+    },
+    {
+      "id": "5c9ed463d5f6fb7109e1",
+      "company": "sisal",
+      "category": "komunita",
+      "title": "Notizie di Social Gaming",
+      "summary": "Automaticky zachycená změna – viz veřejný zdroj.",
+      "detail": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+      "url": "https://www.sisal.it/news/gaming",
+      "date": null,
+      "detected": "2026-11-26",
+      "baseline": false,
+      "kind": "Nově nalezený článek – k ověření",
+      "source": "Veřejný zdroj",
+      "confidence": "Automaticky zachycený kandidát; datum vydání produktu neověřeno",
+      "screenshot": null,
+      "evidenceVersion": 4,
+      "evidenceChecked": "2026-11-26",
+      "evidenceStatus": "Překladový model nedostupný; stávající analýza zachována",
+      "product": {
+        "definition": "Automaticky zachycená změna – viz veřejný zdroj.",
+        "principle": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+        "features": [],
+        "rewards": "Nedoloženo.",
+        "availability": "Nedoloženo.",
+        "unknowns": "Zdroj vyžaduje podrobnější ověření.",
+        "excerptCs": "",
+        "headingsCs": [],
+        "language": "cs",
+        "sources": [
+          "https://www.sisal.it/news/gaming"
+        ],
+        "method": "Základní výpis"
+      },
+      "sourceTitle": "Notizie di Social Gaming",
+      "sourcePublished": null,
+      "sourceExcerpt": "Allenatori, preparate le Poké Ball e gli zaini: agosto 2026 si preannuncia un mese scoppiettante su Pokémon GO.",
+      "sourceHeadings": [
+        "Pokémon GO: tutti gli eventi di agosto",
+        "Honkai Nexsus Anima: il gioco che fa incontrare i Pokémon con Genshin Impact",
+        "Spiderman torna su Fortnite: annunciato il cross-over con Brand New Day",
+        "Fortnite: come sbloccare la skin Odissea",
+        "Fortnite si riempie di collaborazioni: Batman, Odissey e Beckham in arrivo!",
+        "Pokémon GO: svelato il protagonista del community day di agosto",
+        "Time Escape: su Sisal.it si torna negli anni ’90 per riscrivere il futuro",
+        "Arriva su Sisal.it Pirots 5"
+      ],
+      "media": [
+        {
+          "url": "https://www.sisal.it/news/wp-content/uploads/2019/10/I-Pokemon-compiono-25-anni-buon-compleanno.jpg",
+          "label": "Pokémon app mobile",
+          "kind": "image",
+          "source": "https://www.sisal.it/news/gaming"
+        },
+        {
+          "url": "https://www.sisal.it/news/wp-content/uploads/2023/07/print.png",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://www.sisal.it/news/gaming"
+        },
+        {
+          "url": "https://www.sisal.it/news/wp-content/uploads/2023/07/mail.png",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://www.sisal.it/news/gaming"
+        },
+        {
+          "url": "https://www.sisal.it/news/wp-content/uploads/2025/01/jonathan-kemper-SLpna2yVab0-unsplash.jpg",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://www.sisal.it/news/gaming"
+        },
+        {
+          "url": "https://www.sisal.it/news/wp-content/uploads/2023/08/vlad-gorshkov-G1jbCAqp5sk-unsplash.jpg",
+          "label": "fortnite",
+          "kind": "image",
+          "source": "https://www.sisal.it/news/gaming"
+        },
+        {
+          "url": "https://www.sisal.it/news/wp-content/uploads/2023/09/mika-baumeister-IoYcR-yJ7Sg-unsplash.jpg",
+          "label": "pokemon go",
+          "kind": "image",
+          "source": "https://www.sisal.it/news/gaming"
+        },
+        {
+          "url": "https://www.sisal.it/news/wp-content/uploads/2026/11/Time-Escape-promonews_1920x480-150x150.jpg",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://www.sisal.it/news/gaming"
+        },
+        {
+          "url": "https://www.sisal.it/news/wp-content/uploads/2026/06/pirots5_news_1920X480-150x150.jpg",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://www.sisal.it/news/gaming"
+        }
+      ]
+    },
+    {
+      "id": "abfb73fcf7555fa7099f",
+      "company": "draftkings",
+      "category": "soutez",
+      "title": "DraftKings Network — Sports Betting News, Picks & Fantasy Advice",
+      "summary": "Automaticky zachycená změna – viz veřejný zdroj.",
+      "detail": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+      "url": "https://dknetwork.draftkings.com/",
+      "date": null,
+      "detected": "2026-11-26",
+      "baseline": false,
+      "kind": "Nově nalezený článek – k ověření",
+      "source": "Veřejný zdroj",
+      "confidence": "Automaticky zachycený kandidát; datum vydání produktu neověřeno",
+      "screenshot": "screenshots/9c66ee754ca01497408ffc.png",
+      "screenshotDate": "2026-11-26",
+      "screenshotSource": "https://dknetwork.draftkings.com/",
+      "evidenceVersion": 4,
+      "evidenceChecked": "2026-11-26",
+      "evidenceStatus": "Překladový model nedostupný; stávající analýza zachována",
+      "product": {
+        "definition": "Automaticky zachycená změna – viz veřejný zdroj.",
+        "principle": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+        "features": [],
+        "rewards": "Nedoloženo.",
+        "availability": "Nedoloženo.",
+        "unknowns": "Zdroj vyžaduje podrobnější ověření.",
+        "excerptCs": "",
+        "headingsCs": [],
+        "language": "cs",
+        "sources": [
+          "https://dknetwork.draftkings.com/"
+        ],
+        "method": "Základní výpis"
+      },
+      "sourceTitle": "DraftKings Network — Sports Betting News, Picks & Fantasy Advice",
+      "sourcePublished": null,
+      "sourceExcerpt": "Fantasy Football Must-Start Players for the 2026 Thanksgiving Slate",
+      "sourceHeadings": [
+        "Fantasy Football Must-Start Players for the 2026 Thanksgiving Slate",
+        "Bears vs. Lions NFL DFS Showdown Picks and Strategy for Thanksgiving",
+        "Explore DKN Tools",
+        "Placing a parlay bet just got that much easier",
+        "Get inside the action with DraftKings betting splits",
+        "Research today's top player props to watch",
+        "Editor Picks",
+        "Editor Picks"
+      ],
+      "media": [
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/2026/11/GettyImages-2306437578.jpg?w=1024",
+          "label": "PHILADELPHIA, PENNSYLVANIA - NOVEMBER 22: Saquon Barkley #26 of the Philadelphia Eagles celebrates after scoring a touchdown against the Pit",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/2026/11/GettyImages-2306071097.jpg?w=1024",
+          "label": "CHICAGO, ILLINOIS - NOVEMBER 22: Caleb Williams #18 of the Chicago Bears runs during a game against the New Orleans Saints at Soldier Field ",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/themes/dkn-core/assets/img/tools/parlay-white.svg",
+          "label": "Sportsbook Parlays",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/themes/dkn-core/assets/img/tools/parlay-dark.svg",
+          "label": "Sportsbook Parlays",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/themes/dkn-core/assets/img/tools/splits-white.svg",
+          "label": "Sportsbook Splits",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/themes/dkn-core/assets/img/tools/splits-dark.svg",
+          "label": "Sportsbook Splits",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/themes/dkn-core/assets/img/tools/props-white.svg",
+          "label": "Sportsbook Props",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/themes/dkn-core/assets/img/tools/props-dark.svg",
+          "label": "Sportsbook Props",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/"
+        }
+      ]
+    },
+    {
+      "id": "d1e9bc2fbbfab986457b",
+      "company": "draftkings",
+      "category": "soutez",
+      "title": "DraftKings Fantasy Advice",
+      "summary": "Automaticky zachycená změna – viz veřejný zdroj.",
+      "detail": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+      "url": "https://dknetwork.draftkings.com/category/draftkings-fantasy-advice",
+      "date": null,
+      "detected": "2026-11-26",
+      "baseline": false,
+      "kind": "Nově nalezený článek – k ověření",
+      "source": "Veřejný zdroj",
+      "confidence": "Automaticky zachycený kandidát; datum vydání produktu neověřeno",
+      "screenshot": "screenshots/8dec8b5692c6c9d4d6e683.png",
+      "screenshotDate": "2026-11-26",
+      "screenshotSource": "https://dknetwork.draftkings.com/category/draftkings-fantasy-advice/",
+      "evidenceVersion": 4,
+      "evidenceChecked": "2026-11-26",
+      "evidenceStatus": "Překladový model nedostupný; stávající analýza zachována",
+      "product": {
+        "definition": "Automaticky zachycená změna – viz veřejný zdroj.",
+        "principle": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+        "features": [],
+        "rewards": "Nedoloženo.",
+        "availability": "Nedoloženo.",
+        "unknowns": "Zdroj vyžaduje podrobnější ověření.",
+        "excerptCs": "",
+        "headingsCs": [],
+        "language": "cs",
+        "sources": [
+          "https://dknetwork.draftkings.com/category/draftkings-fantasy-advice"
+        ],
+        "method": "Základní výpis"
+      },
+      "sourceTitle": "DraftKings Fantasy Advice",
+      "sourcePublished": null,
+      "sourceExcerpt": "Bears vs. Lions NFL DFS Showdown Picks and Strategy for Thanksgiving",
+      "sourceHeadings": [
+        "Bears vs. Lions NFL DFS Showdown Picks and Strategy for Thanksgiving",
+        "Fantasy Football Must-Start Players for the 2026 Thanksgiving Slate",
+        "Start or Sit Kaleb Johnson With Josh Jacobs Out in Week 12 Fantasy Football?",
+        "Konata Mumpfield Fantasy Football Start or Sit Advice for Week 12",
+        "Kyren Williams or Blake Corum Fantasy Football Start or Sit Advice for Week 12",
+        "Rams vs. Packers NFL DFS Value Picks for Wednesday 11/25/26",
+        "5 Stats You Need to Win Your Week 12 Fantasy Matchup",
+        "Green Bay Packers vs. Los Angeles Rams Weather Forecast: Thanksgiving Eve Conditions"
+      ],
+      "media": [
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/2026/11/GettyImages-2306071097.jpg?w=768",
+          "label": "Bears vs. Lions NFL DFS Showdown Picks and Strategy for Thanksgiving",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/category/draftkings-fantasy-advice/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/2026/11/GettyImages-2306437578.jpg?w=768",
+          "label": "Fantasy Football Must-Start Players for the 2026 Thanksgiving Slate",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/category/draftkings-fantasy-advice/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/2026/11/GettyImages-2304302642.jpg?w=768",
+          "label": "Start or Sit Kaleb Johnson With Josh Jacobs Out in Week 12 Fantasy Football?",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/category/draftkings-fantasy-advice/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/2026/10/GettyImages-2297318455.jpg?w=768",
+          "label": "Konata Mumpfield Fantasy Football Start or Sit Advice for Week 12",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/category/draftkings-fantasy-advice/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/GettyImages-2249554229.jpg?w=768",
+          "label": "Kyren Williams or Blake Corum Fantasy Football Start or Sit Advice for Week 12",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/category/draftkings-fantasy-advice/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/2026/11/GettyImages-2304303463.jpg?w=768",
+          "label": "Rams vs. Packers NFL DFS Value Picks for Wednesday 11/25/26",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/category/draftkings-fantasy-advice/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/2026/09/GettyImages-2296408417.jpg?w=768",
+          "label": "5 Stats You Need to Win Your Week 12 Fantasy Matchup",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/category/draftkings-fantasy-advice/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/2026/09/GettyImages-2291237235.jpg?w=768",
+          "label": "Green Bay Packers vs. Los Angeles Rams Weather Forecast: Thanksgiving Eve Conditions",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/category/draftkings-fantasy-advice/"
+        }
+      ]
+    },
+    {
+      "id": "03410f118475568ff919",
+      "company": "draftkings",
+      "category": "soutez",
+      "title": "Fantasy Football Must-Start Players for the 2026 Thanksgiving Slate",
+      "summary": "Automaticky zachycená změna – viz veřejný zdroj.",
+      "detail": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+      "url": "https://dknetwork.draftkings.com/2026/11/25/fantasy-football-must-start-players-for-the-2026-thanksgiving-slate",
+      "date": "2026-11-26",
+      "detected": "2026-11-26",
+      "baseline": false,
+      "kind": "Nově nalezený článek – k ověření",
+      "source": "Veřejný zdroj",
+      "confidence": "Automaticky zachycený kandidát; datum vydání produktu neověřeno",
+      "screenshot": "screenshots/e3f573e3e436a3c701f859.png",
+      "screenshotDate": "2026-11-26",
+      "screenshotSource": "https://dknetwork.draftkings.com/2026/11/25/fantasy-football-must-start-players-for-the-2026-thanksgiving-slate/",
+      "evidenceVersion": 4,
+      "evidenceChecked": "2026-11-26",
+      "evidenceStatus": "Překladový model nedostupný; stávající analýza zachována",
+      "product": {
+        "definition": "Automaticky zachycená změna – viz veřejný zdroj.",
+        "principle": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+        "features": [],
+        "rewards": "Nedoloženo.",
+        "availability": "Nedoloženo.",
+        "unknowns": "Zdroj vyžaduje podrobnější ověření.",
+        "excerptCs": "",
+        "headingsCs": [],
+        "language": "cs",
+        "sources": [
+          "https://dknetwork.draftkings.com/2026/11/25/fantasy-football-must-start-players-for-the-2026-thanksgiving-slate"
+        ],
+        "method": "Základní výpis"
+      },
+      "sourceTitle": "Fantasy Football Must-Start Players for the 2026 Thanksgiving Slate",
+      "sourcePublished": "2026-11-26",
+      "sourceExcerpt": "There’s a chill in the air and turkeys are hitting deep fryers across the country – happy Thanksgiving",
+      "sourceHeadings": [
+        "Fantasy Football Week 12 Must-Start Players",
+        "QB: Caleb Williams, Bears at Lions ($5,800)",
+        "RB: Saquon Barkley, Eagles at Cowboys ($5,800)",
+        "WR: Khalil Shakir, Bills vs. Chiefs ($4,600)",
+        "TE: Colston Loveland, Bears at Lions ($5,000)",
+        "More on this game"
+      ],
+      "media": [
+        {
+          "url": "https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/13322.png",
+          "label": "KC",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/fantasy-football-must-start-players-for-the-2026-thanksgiving-slate/"
+        },
+        {
+          "url": "https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/13310.png",
+          "label": "BUF",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/fantasy-football-must-start-players-for-the-2026-thanksgiving-slate/"
+        },
+        {
+          "url": "https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/draftkings.svg",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/fantasy-football-must-start-players-for-the-2026-thanksgiving-slate/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/2026/07/keagan-smith.jpg?w=150&h=150&crop=1",
+          "label": "Keagan Smith",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/fantasy-football-must-start-players-for-the-2026-thanksgiving-slate/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/2026/11/GettyImages-2306437578.jpg",
+          "label": "Titulní obrázek článku (nemusí jít o screenshot aplikace)",
+          "kind": "cover",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/fantasy-football-must-start-players-for-the-2026-thanksgiving-slate/"
+        }
+      ]
+    },
+    {
+      "id": "81369f0d119f348d0be8",
+      "company": "draftkings",
+      "category": "soutez",
+      "title": "Fantasy Football Must-Start Players for the 2026 Thanksgiving Slate",
+      "summary": "Automaticky zachycená změna – viz veřejný zdroj.",
+      "detail": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+      "url": "http://dknetwork.draftkings.com/2026/11/25/fantasy-football-must-start-players-for-the-2026-thanksgiving-slate",
+      "date": "2026-11-26",
+      "detected": "2026-11-26",
+      "baseline": false,
+      "kind": "Nově nalezený článek – k ověření",
+      "source": "Veřejný zdroj",
+      "confidence": "Automaticky zachycený kandidát; datum vydání produktu neověřeno",
+      "screenshot": null
+    },
+    {
+      "id": "7c79bc63b95ca58310f7",
+      "company": "draftkings",
+      "category": "soutez",
+      "title": "RB Start/Sit Week 12: Fantasy Football Running Back Picks",
+      "summary": "Automaticky zachycená změna – viz veřejný zdroj.",
+      "detail": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+      "url": "https://dknetwork.draftkings.com/2026/11/25/rb-start-sit-week-12-fantasy-football-running-back-picks-2026",
+      "date": "2026-11-25",
+      "detected": "2026-11-26",
+      "baseline": false,
+      "kind": "Nově nalezený článek – k ověření",
+      "source": "Veřejný zdroj",
+      "confidence": "Automaticky zachycený kandidát; datum vydání produktu neověřeno",
+      "screenshot": "screenshots/7fa3762a22f086140aef46.png",
+      "screenshotDate": "2026-11-26",
+      "screenshotSource": "https://dknetwork.draftkings.com/2026/11/25/rb-start-sit-week-12-fantasy-football-running-back-picks-2026/",
+      "evidenceVersion": 4,
+      "evidenceChecked": "2026-11-26",
+      "evidenceStatus": "Překladový model nedostupný; stávající analýza zachována",
+      "product": {
+        "definition": "Automaticky zachycená změna – viz veřejný zdroj.",
+        "principle": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+        "features": [],
+        "rewards": "Nedoloženo.",
+        "availability": "Nedoloženo.",
+        "unknowns": "Zdroj vyžaduje podrobnější ověření.",
+        "excerptCs": "",
+        "headingsCs": [],
+        "language": "cs",
+        "sources": [
+          "https://dknetwork.draftkings.com/2026/11/25/rb-start-sit-week-12-fantasy-football-running-back-picks-2026"
+        ],
+        "method": "Základní výpis"
+      },
+      "sourceTitle": "RB Start/Sit Week 12: Fantasy Football Running Back Picks",
+      "sourcePublished": "2026-11-25",
+      "sourceExcerpt": "Looking for Week 12 RB start/sit picks? Here are the running backs to start and sit in your",
+      "sourceHeadings": [
+        "Fantasy Football Week 12 RB Start/Sit: Running Back Picks",
+        "Week 12 RB Start: Blake Corum vs. Packers",
+        "Week 12 RB Sit: Jonathan Taylor vs. Giants",
+        "Find all of my Week 12 start/sit picks for each position here!",
+        "Week 12 RB Start: Kenny Gainwell vs. Panthers",
+        "Week 12 Sit: Travis Etienne Jr. at Bengals",
+        "More on this game"
+      ],
+      "media": [
+        {
+          "url": "https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/13326.png",
+          "label": "NO",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/rb-start-sit-week-12-fantasy-football-running-back-picks-2026/"
+        },
+        {
+          "url": "https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/13313.png",
+          "label": "CIN",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/rb-start-sit-week-12-fantasy-football-running-back-picks-2026/"
+        },
+        {
+          "url": "https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/draftkings.svg",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/rb-start-sit-week-12-fantasy-football-running-back-picks-2026/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/IMG_9110.jpg?w=150&h=150&crop=1",
+          "label": "Jeff Pratt",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/rb-start-sit-week-12-fantasy-football-running-back-picks-2026/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/2026/11/GettyImages-2305550340.jpg",
+          "label": "Titulní obrázek článku (nemusí jít o screenshot aplikace)",
+          "kind": "cover",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/rb-start-sit-week-12-fantasy-football-running-back-picks-2026/"
+        }
+      ]
+    },
+    {
+      "id": "d802c59c9c7d7fcb7554",
+      "company": "draftkings",
+      "category": "soutez",
+      "title": "Start or Sit Kaleb Johnson With Josh Jacobs Out in Week 12 Fantasy Football?",
+      "summary": "Automaticky zachycená změna – viz veřejný zdroj.",
+      "detail": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+      "url": "https://dknetwork.draftkings.com/2026/11/25/start-or-sit-kaleb-johnson-with-josh-jacobs-out-in-week-12-fantasy-football",
+      "date": "2026-11-25",
+      "detected": "2026-11-26",
+      "baseline": false,
+      "kind": "Nově nalezený článek – k ověření",
+      "source": "Veřejný zdroj",
+      "confidence": "Automaticky zachycený kandidát; datum vydání produktu neověřeno",
+      "screenshot": "screenshots/2f49f05f4b4727822e07d3.png",
+      "screenshotDate": "2026-11-26",
+      "screenshotSource": "https://dknetwork.draftkings.com/2026/11/25/start-or-sit-kaleb-johnson-with-josh-jacobs-out-in-week-12-fantasy-football/",
+      "evidenceVersion": 4,
+      "evidenceChecked": "2026-11-26",
+      "evidenceStatus": "Překladový model nedostupný; stávající analýza zachována",
+      "product": {
+        "definition": "Automaticky zachycená změna – viz veřejný zdroj.",
+        "principle": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+        "features": [],
+        "rewards": "Nedoloženo.",
+        "availability": "Nedoloženo.",
+        "unknowns": "Zdroj vyžaduje podrobnější ověření.",
+        "excerptCs": "",
+        "headingsCs": [],
+        "language": "cs",
+        "sources": [
+          "https://dknetwork.draftkings.com/2026/11/25/start-or-sit-kaleb-johnson-with-josh-jacobs-out-in-week-12-fantasy-football"
+        ],
+        "method": "Základní výpis"
+      },
+      "sourceTitle": "Start or Sit Kaleb Johnson With Josh Jacobs Out in Week 12 Fantasy Football?",
+      "sourcePublished": "2026-11-25",
+      "sourceExcerpt": "Green Bay’s backfield belongs to Kaleb Johnson again. Josh Jacobs has been ruled out for Wednesday night’s game",
+      "sourceHeadings": [
+        "Kaleb Johnson Start or Sit Advice for Week 12",
+        "The Biggest Fantasy Risk for Kaleb Johnson in Week 12",
+        "Fantasy Outlook for Kaleb Johnson in Week 12",
+        "Find more Week 12 fantasy football start/sit coverage here!",
+        "More on this game"
+      ],
+      "media": [
+        {
+          "url": "https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/13322.png",
+          "label": "KC",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/start-or-sit-kaleb-johnson-with-josh-jacobs-out-in-week-12-fantasy-football/"
+        },
+        {
+          "url": "https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/13335.png",
+          "label": "LAR",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/start-or-sit-kaleb-johnson-with-josh-jacobs-out-in-week-12-fantasy-football/"
+        },
+        {
+          "url": "https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/draftkings.svg",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/start-or-sit-kaleb-johnson-with-josh-jacobs-out-in-week-12-fantasy-football/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/2026/11/GettyImages-2304302642.jpg",
+          "label": "Titulní obrázek článku (nemusí jít o screenshot aplikace)",
+          "kind": "cover",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/start-or-sit-kaleb-johnson-with-josh-jacobs-out-in-week-12-fantasy-football/"
+        }
+      ]
+    },
+    {
+      "id": "2dbdb4d4116d67419809",
+      "company": "draftkings",
+      "category": "soutez",
+      "title": "Konata Mumpfield Fantasy Football Start or Sit Advice for Week 12",
+      "summary": "Automaticky zachycená změna – viz veřejný zdroj.",
+      "detail": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+      "url": "https://dknetwork.draftkings.com/2026/11/25/konata-mumpfield-fantasy-football-start-or-sit-advice-for-week-12",
+      "date": "2026-11-25",
+      "detected": "2026-11-26",
+      "baseline": false,
+      "kind": "Nově nalezený článek – k ověření",
+      "source": "Veřejný zdroj",
+      "confidence": "Automaticky zachycený kandidát; datum vydání produktu neověřeno",
+      "screenshot": "screenshots/70ca949688014a1fba6dbd.png",
+      "screenshotDate": "2026-11-26",
+      "screenshotSource": "https://dknetwork.draftkings.com/2026/11/25/konata-mumpfield-fantasy-football-start-or-sit-advice-for-week-12/",
+      "evidenceVersion": 4,
+      "evidenceChecked": "2026-11-26",
+      "evidenceStatus": "Překladový model nedostupný; stávající analýza zachována",
+      "product": {
+        "definition": "Automaticky zachycená změna – viz veřejný zdroj.",
+        "principle": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+        "features": [],
+        "rewards": "Nedoloženo.",
+        "availability": "Nedoloženo.",
+        "unknowns": "Zdroj vyžaduje podrobnější ověření.",
+        "excerptCs": "",
+        "headingsCs": [],
+        "language": "cs",
+        "sources": [
+          "https://dknetwork.draftkings.com/2026/11/25/konata-mumpfield-fantasy-football-start-or-sit-advice-for-week-12"
+        ],
+        "method": "Základní výpis"
+      },
+      "sourceTitle": "Konata Mumpfield Fantasy Football Start or Sit Advice for Week 12",
+      "sourcePublished": "2026-11-25",
+      "sourceExcerpt": "The Rams are coming off their bye, but they remain depleted on offense with Puka Nacua (knee), Davante",
+      "sourceHeadings": [
+        "Konata Mumpfield Start or Sit Advice for Week 12",
+        "Start or Sit: Start Konata Mumpfield",
+        "More on this game"
+      ],
+      "media": [
+        {
+          "url": "https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/13322.png",
+          "label": "KC",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/konata-mumpfield-fantasy-football-start-or-sit-advice-for-week-12/"
+        },
+        {
+          "url": "https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/13335.png",
+          "label": "LAR",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/konata-mumpfield-fantasy-football-start-or-sit-advice-for-week-12/"
+        },
+        {
+          "url": "https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/draftkings.svg",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/konata-mumpfield-fantasy-football-start-or-sit-advice-for-week-12/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/Head-Avi-5.jpg?w=150&h=150&crop=1",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/konata-mumpfield-fantasy-football-start-or-sit-advice-for-week-12/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/2026/10/GettyImages-2297318455.jpg",
+          "label": "Titulní obrázek článku (nemusí jít o screenshot aplikace)",
+          "kind": "cover",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/konata-mumpfield-fantasy-football-start-or-sit-advice-for-week-12/"
+        }
+      ]
+    },
+    {
+      "id": "87bef60ff4ab92a836a8",
+      "company": "draftkings",
+      "category": "soutez",
+      "title": "Kyren Williams or Blake Corum Fantasy Football Start or Sit Advice for Week 12",
+      "summary": "Automaticky zachycená změna – viz veřejný zdroj.",
+      "detail": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+      "url": "https://dknetwork.draftkings.com/2026/11/25/kyren-williams-or-blake-corum-fantasy-football-start-or-sit-advice-for-week-12",
+      "date": "2026-11-25",
+      "detected": "2026-11-26",
+      "baseline": false,
+      "kind": "Nově nalezený článek – k ověření",
+      "source": "Veřejný zdroj",
+      "confidence": "Automaticky zachycený kandidát; datum vydání produktu neověřeno",
+      "screenshot": "screenshots/2886a49245da388a799894.png",
+      "screenshotDate": "2026-11-26",
+      "screenshotSource": "https://dknetwork.draftkings.com/2026/11/25/kyren-williams-or-blake-corum-fantasy-football-start-or-sit-advice-for-week-12/",
+      "evidenceVersion": 4,
+      "evidenceChecked": "2026-11-26",
+      "evidenceStatus": "Překladový model nedostupný; stávající analýza zachována",
+      "product": {
+        "definition": "Automaticky zachycená změna – viz veřejný zdroj.",
+        "principle": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+        "features": [],
+        "rewards": "Nedoloženo.",
+        "availability": "Nedoloženo.",
+        "unknowns": "Zdroj vyžaduje podrobnější ověření.",
+        "excerptCs": "",
+        "headingsCs": [],
+        "language": "cs",
+        "sources": [
+          "https://dknetwork.draftkings.com/2026/11/25/kyren-williams-or-blake-corum-fantasy-football-start-or-sit-advice-for-week-12"
+        ],
+        "method": "Základní výpis"
+      },
+      "sourceTitle": "Kyren Williams or Blake Corum Fantasy Football Start or Sit Advice for Week 12",
+      "sourcePublished": "2026-11-25",
+      "sourceExcerpt": "Kyren Williams ($8,600) began the season as the much better fantasy asset over Blake Corum ($7,600) , but",
+      "sourceHeadings": [
+        "Kyren Williams or Blake Corum Start or Sit Advice for Week 12",
+        "Start or Sit: Start Blake Corum",
+        "More on this game"
+      ],
+      "media": [
+        {
+          "url": "https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/13322.png",
+          "label": "KC",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/kyren-williams-or-blake-corum-fantasy-football-start-or-sit-advice-for-week-12/"
+        },
+        {
+          "url": "https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/13335.png",
+          "label": "LAR",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/kyren-williams-or-blake-corum-fantasy-football-start-or-sit-advice-for-week-12/"
+        },
+        {
+          "url": "https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/draftkings.svg",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/kyren-williams-or-blake-corum-fantasy-football-start-or-sit-advice-for-week-12/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/Head-Avi-5.jpg?w=150&h=150&crop=1",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/kyren-williams-or-blake-corum-fantasy-football-start-or-sit-advice-for-week-12/"
+        },
+        {
+          "url": "https://dknetwork.draftkings.com/wp-content/uploads/GettyImages-2249554229.jpg",
+          "label": "Titulní obrázek článku (nemusí jít o screenshot aplikace)",
+          "kind": "cover",
+          "source": "https://dknetwork.draftkings.com/2026/11/25/kyren-williams-or-blake-corum-fantasy-football-start-or-sit-advice-for-week-12/"
+        }
+      ]
+    },
+    {
+      "id": "63c1505203d2d3052416",
+      "company": "sts",
+      "category": "bonus",
+      "title": "Reklamacja promocji",
+      "summary": "Automaticky zachycená změna – viz veřejný zdroj.",
+      "detail": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+      "url": "https://pomoc.sts.pl/reklamacja-promocji",
+      "date": null,
+      "detected": "2026-11-26",
+      "baseline": false,
+      "kind": "Nově nalezený článek – k ověření",
+      "source": "Veřejný zdroj",
+      "confidence": "Automaticky zachycený kandidát; datum vydání produktu neověřeno",
+      "screenshot": null,
+      "evidenceVersion": 4,
+      "evidenceChecked": "2026-11-26",
+      "evidenceStatus": "Překladový model nedostupný; stávající analýza zachována",
+      "product": {
+        "definition": "Automaticky zachycená změna – viz veřejný zdroj.",
+        "principle": "Obsah a podrobnosti jsou k dispozici v odkazu na zdroj.",
+        "features": [],
+        "rewards": "Nedoloženo.",
+        "availability": "Nedoloženo.",
+        "unknowns": "Zdroj vyžaduje podrobnější ověření.",
+        "excerptCs": "",
+        "headingsCs": [],
+        "language": "cs",
+        "sources": [
+          "https://pomoc.sts.pl/reklamacja-promocji"
+        ],
+        "method": "Základní výpis"
+      },
+      "sourceTitle": "Reklamacja promocji",
+      "sourcePublished": null,
+      "sourceExcerpt": "* Pamiętaj, że reklamację musisz przesłać z adresu mailowego, będącego loginem do konta online.",
+      "sourceHeadings": [],
+      "media": [
+        {
+          "url": "https://cdn.livechat-static.com/api/file/kb/file/4965271/66d7661d16-e6556a56c2722ed3a6a5.png",
+          "label": "Titulní obrázek článku (nemusí jít o screenshot aplikace)",
+          "kind": "cover",
+          "source": "https://pomoc.sts.pl/reklamacja-promocji/"
+        }
+      ]
     }
   ],
   "updated": "2026-11-26",
@@ -1100,31 +1969,44 @@
       "ids": [
         "sbk-arena-winter-2026",
         "superbet-ro-nov23-2026",
-        "sts-maraton-plus-nov2026"
+        "sts-maraton-plus-nov2026",
+        "7c77090141fa5237660e",
+        "5c9ed463d5f6fb7109e1",
+        "abfb73fcf7555fa7099f",
+        "d1e9bc2fbbfab986457b",
+        "03410f118475568ff919",
+        "81369f0d119f348d0be8",
+        "7c79bc63b95ca58310f7",
+        "d802c59c9c7d7fcb7554",
+        "2dbdb4d4116d67419809",
+        "87bef60ff4ab92a836a8",
+        "63c1505203d2d3052416"
       ],
-      "note": "První běh: základní inventura zdrojů. Automatické záchyty jsou kandidáti k ověření, ne potvrzená produktová vydání. Prázdný výsledek neznamená, že firma nic nevydala. Ruční kontrola doplnila aktuální zachycené edice; u nedatovaných položek jde o datum zachycení, nikoli publikace.",
+      "note": "Automatické záchyty jsou kandidáti k ověření, ne potvrzená produktová vydání. Prázdný výsledek neznamená, že firma nic nevydala.",
       "errors": [
         "sisal: https://www.sisal.it/scommesse-matchpoint/tipster/tipsters – HTTPError",
+        "sisal: https://www.sisal.it/bonus/special-game-time-escape – HTTPError",
         "sportsbet: https://corporate.sportsbet.com.au/news – HTTPError",
         "sportsbet: https://helpcentre.sportsbet.com.au/hc/en-us/p/Promotions-History – HTTPError",
         "sportsbet: https://www.sportsbet.com.au/huddle/punter-iq/guide/what-is-the-feed – HTTPError",
         "draftkings: https://www.draftkings.com/about/news/ – HTTPError",
-        "sbk: https://help.getsbk.com/hc/en-gb – HTTPError"
+        "sbk: https://help.getsbk.com/hc/en-gb – HTTPError",
+        "sbk: https://help.getsbk.com/hc/en-gb/articles/40904046984477-SBK-Arena-Winter-2026 – HTTPError"
       ],
       "evidence": {
-        "attempted": 14,
-        "enriched": 5,
-        "screenshots": 3,
-        "media": 21,
-        "unavailable": 9
+        "attempted": 29,
+        "enriched": 16,
+        "screenshots": 10,
+        "media": 68,
+        "unavailable": 13
       }
     }
   ],
   "evidenceStats": {
-    "attempted": 14,
-    "enriched": 5,
-    "screenshots": 3,
-    "media": 21,
-    "unavailable": 9
+    "attempted": 29,
+    "enriched": 16,
+    "screenshots": 10,
+    "media": 68,
+    "unavailable": 13
   }
 }
