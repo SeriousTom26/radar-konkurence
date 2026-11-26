@@ -533,6 +533,129 @@
           "source": "https://www.skysports.com/games"
         }
       ]
+    },
+    {
+      "id": "sbk-arena-winter-2026",
+      "company": "sbk",
+      "category": "soutez",
+      "title": "SBK Arena – zimní šestitýdenní soutěž",
+      "summary": "Nová zimní edice týdenní bodované soutěže od 24. listopadu.",
+      "detail": "Oficiální nápověda popisuje šest týdenních kol probíhajících od úterý do neděle. Účastníci jsou vyhodnocováni podle skóre; odměny jsou navázány na pořadí. Nejde o doložené zavedení zcela nové platformy.",
+      "url": "https://help.getsbk.com/hc/en-gb/articles/40904046984477-SBK-Arena-Winter-2026",
+      "date": "2026-11-24",
+      "kind": "Nová edice soutěže",
+      "detected": "2026-11-26",
+      "baseline": false,
+      "source": "Oficiální veřejný zdroj",
+      "confidence": "Ručně dohledaný oficiální zdroj; dostupnost celého článku se může lišit.",
+      "screenshot": null,
+      "description": {
+        "what": "Nová zimní edice týdenní bodované soutěže od 24. listopadu.",
+        "how": "Oficiální nápověda popisuje šest týdenních kol probíhajících od úterý do neděle. Účastníci jsou vyhodnocováni podle skóre; odměny jsou navázány na pořadí. Nejde o doložené zavedení zcela nové platformy.",
+        "availability": "Zimní edice 2026, začátek 24. listopadu; konkrétní trhy je nutné ověřit v podmínkách.",
+        "changes": "Nová tematická edice; změna základní mechaniky nedoložena.",
+        "type": "Nová edice soutěže"
+      },
+      "evidenceStatus": "Ručně dohledáno 26. 11. 2026; obrazové podklady budou doplněny při sběru."
+    },
+    {
+      "id": "superbet-ro-nov23-2026",
+      "company": "superbet",
+      "category": "soutez",
+      "title": "SuperSocial – nová týdenní výzva v Rumunsku",
+      "summary": "Další tematická komunitní výzva v období 23.–30. listopadu.",
+      "detail": "Výzva je součástí SuperSocial a využívá existující komunitní prostředí. Oficiální pravidla uvádějí období 23.–30. listopadu 2026 a propojení s vybranými sázkovými produkty. Jde o novou edici, nikoli ověřenou změnu platformy.",
+      "url": "https://superbet.ro/wiki/provocarea-101-betbuilder-23112026",
+      "date": null,
+      "kind": "Nová edice soutěže",
+      "detected": "2026-11-26",
+      "baseline": false,
+      "source": "Oficiální veřejný zdroj",
+      "confidence": "Ručně dohledaný oficiální zdroj; dostupnost celého článku se může lišit.",
+      "screenshot": null,
+      "description": {
+        "what": "Další tematická komunitní výzva v období 23.–30. listopadu.",
+        "how": "Výzva je součástí SuperSocial a využívá existující komunitní prostředí. Oficiální pravidla uvádějí období 23.–30. listopadu 2026 a propojení s vybranými sázkovými produkty. Jde o novou edici, nikoli ověřenou změnu platformy.",
+        "availability": "Rumunsko; 23.–30. listopadu 2026.",
+        "changes": "Nová tematická edice; změna základní mechaniky nedoložena.",
+        "type": "Nová edice soutěže"
+      },
+      "evidenceStatus": "Ručně dohledáno 26. 11. 2026; obrazové podklady budou doplněny při sběru."
+    },
+    {
+      "id": "sisal-time-escape-2026",
+      "company": "sisal",
+      "category": "bonus",
+      "title": "Time Escape – tematická hra s misemi a sbíráním",
+      "summary": "Listopadová edice gamifikovaného programu inspirovaná 90. lety.",
+      "detail": "Program propojuje tematické mise, kvízy, virtuální sběratelské předměty a herní měnu. Oficiální stránka uvádí období 16.–29. listopadu 2026. Stejný koncept existoval také v roce 2025, takže jde o novou edici existující hry.",
+      "url": "https://www.sisal.it/bonus/special-game-time-escape",
+      "date": "2026-11-18",
+      "kind": "Opakovaná edice bonusové hry",
+      "detected": "2026-11-26",
+      "baseline": false,
+      "source": "Oficiální veřejný zdroj",
+      "confidence": "Ručně dohledaný oficiální zdroj; dostupnost celého článku se může lišit.",
+      "screenshot": null,
+      "description": {
+        "what": "Listopadová edice gamifikovaného programu inspirovaná 90. lety.",
+        "how": "Program propojuje tematické mise, kvízy, virtuální sběratelské předměty a herní měnu. Oficiální stránka uvádí období 16.–29. listopadu 2026. Stejný koncept existoval také v roce 2025, takže jde o novou edici existující hry.",
+        "availability": "Itálie, 16.–29. listopadu 2026; datum 18. listopadu je datum oznámení v sekci Sisal News.",
+        "changes": "Nová tematická edice; změna základní mechaniky nedoložena.",
+        "type": "Opakovaná edice bonusové hry"
+      },
+      "evidenceStatus": "Ručně dohledáno 26. 11. 2026; obrazové podklady budou doplněny při sběru.",
+      "additionalSources": [
+        "https://www.sisal.it/news/"
+      ]
+    },
+    {
+      "id": "draftkings-21-rivals-2026",
+      "company": "draftkings",
+      "category": "soutez",
+      "title": "21 Rivals – nová hra typu head-to-head",
+      "summary": "DraftKings oznámil novou karetní hru se soupeřením dvou hráčů.",
+      "detail": "Oficiální DraftKings Network popisuje spuštění hry 21 Rivals, ve které je klíčovým formátem přímé soupeření. Jde o nový herní produkt, nikoli další kolo běžné tipovačky. Konkrétní dostupnost a pravidla zde nebyly nezávisle ověřeny.",
+      "url": "https://dknetwork.draftkings.com/2026/11/10/21-rivals-draftkings-head-to-head-card-game-launch/",
+      "date": "2026-11-13",
+      "kind": "Nový herní produkt",
+      "detected": "2026-11-26",
+      "baseline": false,
+      "source": "Oficiální veřejný zdroj",
+      "confidence": "Ručně dohledaný oficiální zdroj; dostupnost celého článku se může lišit.",
+      "screenshot": null,
+      "description": {
+        "what": "DraftKings oznámil novou karetní hru se soupeřením dvou hráčů.",
+        "how": "Oficiální DraftKings Network popisuje spuštění hry 21 Rivals, ve které je klíčovým formátem přímé soupeření. Jde o nový herní produkt, nikoli další kolo běžné tipovačky. Konkrétní dostupnost a pravidla zde nebyly nezávisle ověřeny.",
+        "availability": "USA; článek aktualizovaný 13. listopadu 2026, přesné datum spuštění a jednotlivé jurisdikce zde neověřeny.",
+        "changes": "Oznámen nový herní formát; další změny neověřeny.",
+        "type": "Nový herní produkt"
+      },
+      "evidenceStatus": "Ručně dohledáno 26. 11. 2026; obrazové podklady budou doplněny při sběru."
+    },
+    {
+      "id": "sts-maraton-plus-nov2026",
+      "company": "sts",
+      "category": "soutez",
+      "title": "STS Maraton – listopadová edice Plus",
+      "summary": "Další edice bodované soutěže s průběžným žebříčkem.",
+      "detail": "Oficiální přehled STS uvádí listopadovou edici Plus v rámci dlouhodobého programu Maraton. Mechanika kombinuje sběr bodů a pořadí v žebříčku. Nebyla doložena změna základního principu soutěže.",
+      "url": "https://promocja.sts.pl/",
+      "date": null,
+      "kind": "Opakovaná edice soutěže",
+      "detected": "2026-11-26",
+      "baseline": false,
+      "source": "Oficiální veřejný zdroj",
+      "confidence": "Ručně dohledaný oficiální zdroj; dostupnost celého článku se může lišit.",
+      "screenshot": null,
+      "description": {
+        "what": "Další edice bodované soutěže s průběžným žebříčkem.",
+        "how": "Oficiální přehled STS uvádí listopadovou edici Plus v rámci dlouhodobého programu Maraton. Mechanika kombinuje sběr bodů a pořadí v žebříčku. Nebyla doložena změna základního principu soutěže.",
+        "availability": "Polsko; listopad 2026. Přesné datum publikace oficiálního přehledu neznámé.",
+        "changes": "Nová tematická edice; změna základní mechaniky nedoložena.",
+        "type": "Opakovaná edice soutěže"
+      },
+      "evidenceStatus": "Ručně dohledáno 26. 11. 2026; obrazové podklady budou doplněny při sběru."
     }
   ],
   "updated": "2026-11-26",
@@ -542,8 +665,12 @@
     {
       "start": "2026-11-19",
       "end": "2026-11-26",
-      "ids": [],
-      "note": "První běh: základní inventura zdrojů. Automatické záchyty jsou kandidáti k ověření, ne potvrzená produktová vydání. Prázdný výsledek neznamená, že firma nic nevydala.",
+      "ids": [
+        "sbk-arena-winter-2026",
+        "superbet-ro-nov23-2026",
+        "sts-maraton-plus-nov2026"
+      ],
+      "note": "První běh: základní inventura zdrojů. Automatické záchyty jsou kandidáti k ověření, ne potvrzená produktová vydání. Prázdný výsledek neznamená, že firma nic nevydala. Ruční kontrola doplnila aktuální zachycené edice; u nedatovaných položek jde o datum zachycení, nikoli publikace.",
       "errors": [
         "sisal: https://www.sisal.it/scommesse-matchpoint/tipster/tipsters – HTTPError",
         "sportsbet: https://corporate.sportsbet.com.au/news – HTTPError",
