@@ -20,7 +20,7 @@ SOURCES={
  'sky':{'pages':['https://www.skysports.com/games','https://super6.skysports.com/']},
 }
 WORDS={'komunita':r'community|social|supersocial|bet feed|tipster|friends|mates|społecz|gracze typuj|comunit|comunid|κοινότ|feed|komunit', 'soutez':r'contest|challenge|tournament|competition|trivia|mini.?league|pool[s]?\b|super 6|super6|quiz|fantasy|leaderboard|ranking|wizjoner|maraton|wyzwan|turniej|soutěž|tipovac|torne|concor|sfid|διαγωνισ|kvíz', 'bonus':r'bonus|reward|loyalty|free.?bet|promotion|cashback|winbooster|bonuseria|odměn|premi[ao]|promoc|ofert|odds boost|prize boost|the assist|επιβράβ'}
-EXCLUDE=r'privacy|cookie|responsible gambling|safer gambling|anti.money|terms of use|sponsorship|job vacancy|financial results|investor relations|deposit method|withdrawal method|betting tips|match preview|predictions for|odds for'
+EXCLUDE=r'fantasy advice|fantasy football|start or sit|start/sit|must.start|running back picks|sports betting news|reklamacja promocji|notizie di social gaming|privacy|cookie|responsible gambling|safer gambling|anti.money|terms of use|sponsorship|job vacancy|financial results|investor relations|deposit method|withdrawal method|betting tips|match preview|predictions for|odds for'
 SESSION=requests.Session();SESSION.headers['User-Agent']='PublicSourceResearchMonitor/1.0'
 now=datetime.now(timezone.utc); today=now.date().isoformat(); start=(now.date()-timedelta(days=7)).isoformat()
 errors=[]
