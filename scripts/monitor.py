@@ -10,13 +10,13 @@ from playwright.sync_api import sync_playwright
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/'data/news.json'; STATE=ROOT/'data/state.json'
 SOURCES={
- 'superbet':{'zendesk':['https://support.superbet.pl','https://support.superbet.gr'],'pages':['https://superbet.pl/wiki/wyzwania']},
+ 'superbet':{'zendesk':['https://support.superbet.pl','https://support.superbet.gr'],'pages':['https://superbet.pl/wiki/wyzwania','https://superbet.ro/wiki/provocarea-101-betbuilder-23112026']},
  'betano':{'zendesk':['https://support-ro.betano.com','https://support.betano.pe','https://support.betano.cz'],'pages':['https://kaizengaming.com/news/']},
- 'sisal':{'pages':['https://www.sisal.it/scommesse-matchpoint/tipster/tipsters','https://www.sisalfunclub.it/']},
+ 'sisal':{'pages':['https://www.sisal.it/scommesse-matchpoint/tipster/tipsters','https://www.sisalfunclub.it/','https://www.sisal.it/news/','https://www.sisal.it/bonus/special-game-time-escape']},
  'sportsbet':{'zendesk':['https://helpcentre.sportsbet.com.au'],'pages':['https://corporate.sportsbet.com.au/news','https://helpcentre.sportsbet.com.au/hc/en-us/p/Promotions-History','https://www.sportsbet.com.au/huddle/punter-iq/guide/what-is-the-feed']},
- 'draftkings':{'pages':['https://www.draftkings.com/leagues/','https://sportsbook.draftkings.com/pools','https://www.draftkings.com/about/news/']},
+ 'draftkings':{'pages':['https://www.draftkings.com/leagues/','https://sportsbook.draftkings.com/pools','https://www.draftkings.com/about/news/','https://dknetwork.draftkings.com/']},
  'sts':{'pages':['https://pomoc.sts.pl/promocje-i-bonusy/','https://promocja.sts.pl/','https://pomoc.sts.pl/wizjoner/']},
- 'sbk':{'zendesk':['https://help.getsbk.com'],'pages':['https://help.getsbk.com/hc/en-gb']},
+ 'sbk':{'zendesk':['https://help.getsbk.com'],'pages':['https://help.getsbk.com/hc/en-gb','https://help.getsbk.com/hc/en-gb/articles/40904046984477-SBK-Arena-Winter-2026']},
  'sky':{'pages':['https://www.skysports.com/games','https://super6.skysports.com/']},
 }
 WORDS={'komunita':r'community|social|supersocial|bet feed|tipster|friends|mates|społecz|gracze typuj|comunit|comunid|κοινότ|feed|komunit', 'soutez':r'contest|challenge|tournament|competition|trivia|mini.?league|pool[s]?\b|super 6|super6|quiz|fantasy|leaderboard|ranking|wizjoner|maraton|wyzwan|turniej|soutěž|tipovac|torne|concor|sfid|διαγωνισ|kvíz', 'bonus':r'bonus|reward|loyalty|free.?bet|promotion|cashback|winbooster|bonuseria|odměn|premi[ao]|promoc|ofert|odds boost|prize boost|the assist|επιβράβ'}
@@ -79,7 +79,7 @@ def translate(title,body,cat):
  except Exception:return fallback
 def main():
  data=json.loads(DATA.read_text());state=json.loads(STATE.read_text()) if STATE.exists() else {};first=not STATE.exists();current=[]
- existing={n['id'] for n in data['items']};initialized=set(state.get('initialized',[]));old=state.get('pages',{});new=dict(old)
+ existing={n['id'] for n in data['items']}; known_urls={(n['company'],norm(n['url'])) for n in data['items']};initialized=set(state.get('initialized',[]));old=state.get('pages',{});new=dict(old)
  for co,cfg in SOURCES.items():
   candidates={};healthy=False
   for base in cfg.get('zendesk',[]):
@@ -91,7 +91,7 @@ def main():
    try:
     a,links=public_page(url);healthy=True
     if a and classify(a['title']):candidates[a['url']]=a
-    for u,label in list(dict.fromkeys(links))[:8]:
+    for u,label in list(dict.fromkeys(links))[:20]:
      try:
       child,_=public_page(u)
       if child and classify(child['title']):candidates[child['url']]=child
@@ -106,7 +106,7 @@ def main():
    discovered=prev is None and co in initialized
    if not (changed or fresh or discovered):continue
    nid=hashlib.sha256((k+'|'+fingerprint).encode()).hexdigest()[:20]
-   if nid in existing:continue
+   if nid in existing or (not changed and (co,url) in known_urls):continue
    title,summary,detail=translate(a['title'],body,cat)
    kind='Změna veřejné stránky – k ověření' if changed else 'Nově nalezený článek – k ověření'
    item=dict(id=nid,company=co,category=cat,title=title,summary=summary,detail=detail,url=url,date=a['published'] if fresh and not changed else None,detected=today,baseline=False,kind=kind,source='Veřejný zdroj',confidence='Automaticky zachycený kandidát; datum vydání produktu neověřeno',screenshot=None)
@@ -123,6 +123,8 @@ def main():
     browser.close()
   except Exception as e:errors.append('Screenshoty: '+type(e).__name__)
  report={'start':start,'end':today,'ids':[n['id'] for n in current],'note':('První běh: základní inventura zdrojů. ' if first else '')+'Automatické záchyty jsou kandidáti k ověření, ne potvrzená produktová vydání. Prázdný výsledek neznamená, že firma nic nevydala.','errors':errors}
+ same=next((r for r in data.get('reports',[]) if r['end']==today),None)
+ if same:report['ids']=list(dict.fromkeys(same['ids']+report['ids']))
  data['reports']=[report]+[r for r in data.get('reports',[]) if r['end']!=today];data.update(updated=today,weekStart=start,status='live')
  DATA.write_text(json.dumps(data,ensure_ascii=False,indent=2));STATE.write_text(json.dumps({'pages':new,'initialized':sorted(initialized)},indent=2))
  print(f'{len(current)} kandidátů; {len(errors)} omezení')
