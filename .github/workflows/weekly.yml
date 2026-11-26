@@ -18,13 +18,17 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r requirements.txt
-      - if: vars.CAPTURE_PUBLIC_SCREENSHOTS == 'true'
-        run: python -m playwright install --with-deps chromium
+      - run: python -m playwright install --with-deps chromium
       - name: Collect public changes
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          CAPTURE_PUBLIC_SCREENSHOTS: ${{ vars.CAPTURE_PUBLIC_SCREENSHOTS }}
+          CAPTURE_PUBLIC_SCREENSHOTS: 'false'
         run: python scripts/monitor.py
+      - name: Enrich details and collect visual evidence
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          CAPTURE_PUBLIC_SCREENSHOTS: ${{ vars.CAPTURE_PUBLIC_SCREENSHOTS || 'true' }}
+        run: python scripts/enrich.py
       - run: python scripts/build.py
       - name: Save report and evidence
         run: |
