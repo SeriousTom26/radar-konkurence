@@ -80,7 +80,9 @@
       "kind": "Existující funkce",
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
-      "screenshot": null
+      "screenshot": null,
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
+      "evidenceChecked": "2026-11-26"
     },
     {
       "id": "initial-2",
@@ -96,7 +98,75 @@
       "kind": "Zachycená edice / datum vydání neznámé",
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
-      "screenshot": null
+      "screenshot": "screenshots/39420ffeb21e73f9aadf06.png",
+      "screenshotDate": "2026-11-26",
+      "screenshotSource": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial",
+      "evidenceVersion": 2,
+      "evidenceChecked": "2026-11-26",
+      "evidenceStatus": "Základní výpis ze zdroje (bez AI souhrnu)",
+      "description": {
+        "what": "Nová edice komunitní výzvy na polském trhu.",
+        "how": "Oficiální pravidla popisují bodování vybraných typů tiketů. Přesné datum vydání zde není stanoveno.",
+        "availability": "Veřejný zdroj; konkrétní trh a termín nejsou automaticky ověřené.",
+        "changes": "Nelze určit bez porovnání předchozí verze.",
+        "type": "Zachycená edice / datum vydání neznámé"
+      },
+      "sourceTitle": "Wyzwanie w Supersocial",
+      "sourcePublished": "2026-11-12",
+      "sourceExcerpt": "Czym są „Wyzwania”? „Wyzwania” to forma rywalizacji, w której celem jest zdobycie szczytu rankingu i zgarnięcie nagród. Zasada",
+      "sourceHeadings": [
+        "Czy ten artykuł był pomocny?"
+      ],
+      "media": [
+        {
+          "url": "https://support.superbet.pl/hc/theming_assets/01HZM825DXNPB9HY40VHNC130B",
+          "label": "arrow right",
+          "kind": "image",
+          "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
+        },
+        {
+          "url": "https://support.superbet.pl/hc/theming_assets/01HZM8256MDNWZJXSM0DJKJSFC",
+          "label": "instaleaza",
+          "kind": "image",
+          "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
+        },
+        {
+          "url": "https://support.superbet.pl/hc/article_attachments/40691396213394",
+          "label": "wyzwanie GTA Supersocial",
+          "kind": "image",
+          "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
+        },
+        {
+          "url": "https://support.superbet.pl/hc/theming_assets/01M25P36S8V317N0WWHFZSQ03N",
+          "label": "promoted-banner-1",
+          "kind": "image",
+          "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
+        },
+        {
+          "url": "https://support.superbet.pl/hc/theming_assets/01M3YE04EF0FZTR5VPDJJB2ZNH",
+          "label": "promoted-banner-5",
+          "kind": "image",
+          "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
+        },
+        {
+          "url": "https://www.youtube.com/embed/bZYKncmLcNg",
+          "label": "promoted video",
+          "kind": "video",
+          "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
+        },
+        {
+          "url": "https://www.youtube.com/embed/kLFW0W1hJA4",
+          "label": "promoted video",
+          "kind": "video",
+          "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
+        },
+        {
+          "url": "https://support.superbet.pl/hc/theming_assets/01HZM82624SRK5DDSQCW3B5WV0",
+          "label": "Titulní obrázek článku (nemusí jít o screenshot aplikace)",
+          "kind": "cover",
+          "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
+        }
+      ]
     },
     {
       "id": "initial-3",
@@ -112,7 +182,9 @@
       "kind": "Existující funkce",
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
-      "screenshot": null
+      "screenshot": null,
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
+      "evidenceChecked": "2026-11-26"
     },
     {
       "id": "initial-4",
@@ -128,7 +200,54 @@
       "kind": "Nová funkce",
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
-      "screenshot": null
+      "screenshot": "screenshots/e02b8d7f439b7b140288a8.png",
+      "screenshotDate": "2026-11-26",
+      "screenshotSource": "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/",
+      "evidenceVersion": 2,
+      "evidenceChecked": "2026-11-26",
+      "evidenceStatus": "Základní výpis ze zdroje (bez AI souhrnu)",
+      "description": {
+        "what": "Nový živý kvíz s generativní AI.",
+        "how": "Spuštění oznámeno mateřskou společností Kaizen Gaming 22. 6. 2026.",
+        "availability": "Veřejný zdroj; konkrétní trh a termín nejsou automaticky ověřené.",
+        "changes": "Nelze určit bez porovnání předchozí verze.",
+        "type": "Nová funkce"
+      },
+      "sourceTitle": "Kaizen Gaming launches Betano Trivia, the World’s first fully GenAI-Powered Live Trivia Experience",
+      "sourcePublished": null,
+      "sourceExcerpt": "Home » News » news » Kaizen Gaming launches Betano Trivia, the World’s first fully GenAI-Powered Live Trivia",
+      "sourceHeadings": [
+        "Related Articles",
+        "Kaizen Gaming secures PAGCOR license to bring Betano to the Philippines",
+        "Prohibition is Not Protection: Betano’s Statement on Provisional Measure 1,394/2026",
+        "Aiming for the Top: George Daskalakis Shares Kaizen Gaming’s Journey and Vision at Athens Tech Festival"
+      ],
+      "media": [
+        {
+          "url": "https://kaizengaming.com/wp-content/uploads/2026/06/Betano-Trivia.png",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/"
+        },
+        {
+          "url": "https://kaizengaming.com/wp-content/uploads/2026/11/1920x1080_Hello_Philippines_P4-1.png",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/"
+        },
+        {
+          "url": "https://kaizengaming.com/wp-content/uploads/2026/10/FLAMENGO-X-FLUMINENSE-BRASILEIRO-MARACANA-11-10-2026-36-1-scaled.jpg",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/"
+        },
+        {
+          "url": "https://kaizengaming.com/wp-content/uploads/2026/06/KT4_8519-1-1.jpg",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/"
+        }
+      ]
     },
     {
       "id": "initial-5",
@@ -144,7 +263,9 @@
       "kind": "Existující funkce",
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
-      "screenshot": null
+      "screenshot": null,
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
+      "evidenceChecked": "2026-11-26"
     },
     {
       "id": "initial-6",
@@ -160,7 +281,9 @@
       "kind": "Existující funkce",
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
-      "screenshot": null
+      "screenshot": null,
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
+      "evidenceChecked": "2026-11-26"
     },
     {
       "id": "initial-7",
@@ -176,7 +299,9 @@
       "kind": "Existující funkce",
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
-      "screenshot": null
+      "screenshot": null,
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
+      "evidenceChecked": "2026-11-26"
     },
     {
       "id": "initial-8",
@@ -192,7 +317,9 @@
       "kind": "Existující funkce",
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
-      "screenshot": null
+      "screenshot": null,
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
+      "evidenceChecked": "2026-11-26"
     },
     {
       "id": "initial-9",
@@ -208,7 +335,9 @@
       "kind": "Existující funkce",
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
-      "screenshot": null
+      "screenshot": null,
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
+      "evidenceChecked": "2026-11-26"
     },
     {
       "id": "initial-10",
@@ -224,7 +353,66 @@
       "kind": "Existující funkce",
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
-      "screenshot": null
+      "screenshot": "screenshots/ea36945fba0e841000b422.png",
+      "screenshotDate": "2026-11-26",
+      "screenshotSource": "https://pomoc.sts.pl/wizjoner/",
+      "evidenceVersion": 2,
+      "evidenceChecked": "2026-11-26",
+      "evidenceStatus": "Základní výpis ze zdroje (bez AI souhrnu)",
+      "description": {
+        "what": "Bezplatná predikční hra.",
+        "how": "Oficiální nápověda dokumentuje existující produkt.",
+        "availability": "Veřejný zdroj; konkrétní trh a termín nejsou automaticky ověřené.",
+        "changes": "Nelze určit bez porovnání předchozí verze.",
+        "type": "Existující funkce"
+      },
+      "sourceTitle": "Wizjoner",
+      "sourcePublished": null,
+      "sourceExcerpt": "Wizjoner to darmowa gra dla zweryfikowanych użytkowników STS. W każdej kolejce dostępne są do wytypowania nowe spotkania. Im",
+      "sourceHeadings": [
+        "Co to jest Wizjoner?",
+        "Gdzie znajduje się Wizjoner?",
+        "Jak grać?",
+        "Pamiętaj 😊"
+      ],
+      "media": [
+        {
+          "url": "https://cdn.livechat-files.com/api/file/kb/file/4965271/4fa4b99d9e-2c9ff576b9ae7b32f467.png",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://pomoc.sts.pl/wizjoner/"
+        },
+        {
+          "url": "https://cdn.livechat-files.com/api/file/kb/file/4965271/6d911c5b7b-08dd35889e08fd38315d.png",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://pomoc.sts.pl/wizjoner/"
+        },
+        {
+          "url": "https://cdn.livechat-files.com/api/file/kb/file/4965271/3cbd898932-9580f8e0cebd4a1f32c5.png",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://pomoc.sts.pl/wizjoner/"
+        },
+        {
+          "url": "https://cdn.livechat-files.com/api/file/kb/file/4965271/c6d92b7df6-c1074dceeb600e62a6bb.png",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://pomoc.sts.pl/wizjoner/"
+        },
+        {
+          "url": "https://cdn.livechat-files.com/api/file/kb/file/4965271/9b9f1996e3-91a1f7433b5ed96c0ad8.png",
+          "label": "Obrázek publikovaný ve zdroji",
+          "kind": "image",
+          "source": "https://pomoc.sts.pl/wizjoner/"
+        },
+        {
+          "url": "https://cdn.livechat-static.com/api/file/kb/file/4965271/66d7661d16-e6556a56c2722ed3a6a5.png",
+          "label": "Titulní obrázek článku (nemusí jít o screenshot aplikace)",
+          "kind": "cover",
+          "source": "https://pomoc.sts.pl/wizjoner/"
+        }
+      ]
     },
     {
       "id": "initial-11",
@@ -240,7 +428,29 @@
       "kind": "Existující funkce",
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
-      "screenshot": null
+      "screenshot": null,
+      "evidenceVersion": 2,
+      "evidenceChecked": "2026-11-26",
+      "evidenceStatus": "Základní výpis ze zdroje (bez AI souhrnu)",
+      "description": {
+        "what": "STS Club, BonuSeria a Winbooster.",
+        "how": "Oficiální nápověda shrnuje existující zákaznické mechanismy.",
+        "availability": "Veřejný zdroj; konkrétní trh a termín nejsou automaticky ověřené.",
+        "changes": "Nelze určit bez porovnání předchozí verze.",
+        "type": "Existující funkce"
+      },
+      "sourceTitle": "Promocje i bonusy",
+      "sourcePublished": null,
+      "sourceExcerpt": "STS Centrum pomocy: Promocje i bonusy",
+      "sourceHeadings": [],
+      "media": [
+        {
+          "url": "https://cdn.livechat-static.com/api/file/kb/file/4965271/66d7661d16-e6556a56c2722ed3a6a5.png",
+          "label": "Titulní obrázek článku (nemusí jít o screenshot aplikace)",
+          "kind": "cover",
+          "source": "https://pomoc.sts.pl/promocje-i-bonusy/"
+        }
+      ]
     },
     {
       "id": "initial-12",
@@ -256,7 +466,9 @@
       "kind": "Existující funkce",
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
-      "screenshot": null
+      "screenshot": null,
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
+      "evidenceChecked": "2026-11-26"
     },
     {
       "id": "initial-13",
@@ -272,7 +484,9 @@
       "kind": "Existující funkce",
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
-      "screenshot": null
+      "screenshot": null,
+      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
+      "evidenceChecked": "2026-11-26"
     },
     {
       "id": "initial-14",
@@ -288,11 +502,70 @@
       "kind": "Zachycená edice / datum vydání neznámé",
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
-      "screenshot": null
+      "screenshot": null,
+      "evidenceVersion": 2,
+      "evidenceChecked": "2026-11-26",
+      "evidenceStatus": "Základní výpis ze zdroje (bez AI souhrnu)",
+      "description": {
+        "what": "Další kolo pravidelné fotbalové tipovací hry.",
+        "how": "Oficiální přehled uvádí termín 29. 11. 2026. Jde o opakovanou edici, nikoli novou mechaniku.",
+        "availability": "Veřejný zdroj; konkrétní trh a termín nejsou automaticky ověřené.",
+        "changes": "Nelze určit bez porovnání předchozí verze.",
+        "type": "Zachycená edice / datum vydání neznámé"
+      },
+      "sourceTitle": "A £1,000,000 SUPER 6 WINNER!",
+      "sourcePublished": null,
+      "sourceExcerpt": "Register for FREE today and start competing against friends. Simply pick a different team each week for the",
+      "sourceHeadings": [
+        "icon_arrow-right Round 19 icon_arrow-right"
+      ],
+      "media": [
+        {
+          "url": "https://e0.365dm.com/24/09/768x432/skysports-super-6-winner_6674743.jpg?20240904095121",
+          "label": "Tom from Southampton became a millionaire for free with Super 6 after correctly predicting all six scorelines!",
+          "kind": "image",
+          "source": "https://www.skysports.com/games"
+        },
+        {
+          "url": "https://e0.365dm.com/20/09/1024x453/skysports-nfl-pickem_5092995.png?20200911112626",
+          "label": "NFL Pick Em",
+          "kind": "image",
+          "source": "https://www.skysports.com/games"
+        }
+      ]
     }
   ],
   "updated": "2026-11-26",
-  "weekStart": "2026-11-20",
-  "status": "initial",
-  "reports": []
+  "weekStart": "2026-11-19",
+  "status": "live",
+  "reports": [
+    {
+      "start": "2026-11-19",
+      "end": "2026-11-26",
+      "ids": [],
+      "note": "První běh: základní inventura zdrojů. Automatické záchyty jsou kandidáti k ověření, ne potvrzená produktová vydání. Prázdný výsledek neznamená, že firma nic nevydala.",
+      "errors": [
+        "sisal: https://www.sisal.it/scommesse-matchpoint/tipster/tipsters – HTTPError",
+        "sportsbet: https://corporate.sportsbet.com.au/news – HTTPError",
+        "sportsbet: https://helpcentre.sportsbet.com.au/hc/en-us/p/Promotions-History – HTTPError",
+        "sportsbet: https://www.sportsbet.com.au/huddle/punter-iq/guide/what-is-the-feed – HTTPError",
+        "draftkings: https://www.draftkings.com/about/news/ – HTTPError",
+        "sbk: https://help.getsbk.com/hc/en-gb – HTTPError"
+      ],
+      "evidence": {
+        "attempted": 14,
+        "enriched": 5,
+        "screenshots": 3,
+        "media": 21,
+        "unavailable": 9
+      }
+    }
+  ],
+  "evidenceStats": {
+    "attempted": 14,
+    "enriched": 5,
+    "screenshots": 3,
+    "media": 21,
+    "unavailable": 9
+  }
 }
