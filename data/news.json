@@ -72,7 +72,7 @@
       "category": "komunita",
       "title": "SuperSocial: komunitní platforma",
       "summary": "Uživatelské profily, příspěvky a diskuse.",
-      "detail": "Oficiální nápověda dokumentuje sociální platformu; jde o existující funkci, nikoli nové vydání.",
+      "detail": "Feed spojuje vlastní publikované tikety, obsah sledovaných profilů a veřejné příspěvky. U jednotlivých zápasů existuje samostatná diskuse. Mobilní aplikace nabízí i soukromé zprávy a vyhledávání uživatelů.",
       "url": "https://support.superbet.gr/hc/en-us/articles/25392387531932-What-is-Supersocial",
       "date": null,
       "detected": "2026-11-26",
@@ -81,8 +81,51 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
-      "evidenceChecked": "2026-11-26"
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceChecked": "2026-11-26",
+      "product": {
+        "definition": "Sociální síť uvnitř sázkové aplikace. Uživatel má vlastní komunitní profil, sleduje další členy a pracuje s obsahem navázaným na sportovní události.",
+        "principle": "Feed spojuje vlastní publikované tikety, obsah sledovaných profilů a veřejné příspěvky. U jednotlivých zápasů existuje samostatná diskuse. Mobilní aplikace nabízí i soukromé zprávy a vyhledávání uživatelů.",
+        "features": [
+          "Profil s fotografií a bio",
+          "Sledování a návrhy kontaktů",
+          "Komentáře a chat u událostí",
+          "Volitelné zveřejnění tiketu",
+          "Blokování uživatelů a nastavení notifikací"
+        ],
+        "rewards": "Sázka a její potenciální výhra nejsou ve zveřejněném příspěvku viditelné. Sociální obsah lze moderovat a uživatele blokovat.",
+        "availability": "Web i mobil; některé funkce jsou pouze v aplikaci. Rozsah se může lišit podle trhu.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://support.superbet.gr/hc/en-us/articles/25392387531932-What-is-Supersocial",
+          "https://support.superbet.gr/hc/en-us/articles/25864362406044-SuperSocial-Features",
+          "https://support.superbet.pl/hc/pl-pl/articles/360016807839-Funkcje-Supersocial-jak-korzysta%C4%87-z-platformy-spo%C5%82eczno%C5%9Bciowej-w-Superbet"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      },
+      "description": {
+        "what": "Sociální síť uvnitř sázkové aplikace. Uživatel má vlastní komunitní profil, sleduje další členy a pracuje s obsahem navázaným na sportovní události.",
+        "how": "Feed spojuje vlastní publikované tikety, obsah sledovaných profilů a veřejné příspěvky. U jednotlivých zápasů existuje samostatná diskuse. Mobilní aplikace nabízí i soukromé zprávy a vyhledávání uživatelů.",
+        "availability": "Web i mobil; některé funkce jsou pouze v aplikaci. Rozsah se může lišit podle trhu.",
+        "changes": "Změna vůči dřívějšímu stavu nebyla ověřena.",
+        "type": "Existující funkce"
+      },
+      "media": [
+        {
+          "kind": "video",
+          "label": "Propagační spot Superbet: SuperSocial (polsky)",
+          "url": "https://www.youtube.com/watch?v=4WN3_EDh5yw",
+          "source": "https://www.youtube.com/watch?v=4WN3_EDh5yw"
+        },
+        {
+          "kind": "video",
+          "label": "Kampaň SuperSocial – září 2026 (polsky)",
+          "url": "https://www.youtube.com/watch?v=ocIXalNT8kc",
+          "source": "https://www.youtube.com/watch?v=ocIXalNT8kc"
+        }
+      ]
     },
     {
       "id": "initial-2",
@@ -90,7 +133,7 @@
       "category": "soutez",
       "title": "SuperSocial: listopadová výzva",
       "summary": "Nová edice komunitní výzvy na polském trhu.",
-      "detail": "Oficiální pravidla popisují bodování vybraných typů tiketů. Přesné datum vydání zde není stanoveno.",
+      "detail": "Samostatná výzva má vlastní podmínky a pořadí. Její vstupní bod je propojen s feedem, profilem a relevantním tiketem. Jednotlivé edice používají různá témata a bodovací podmínky.",
       "url": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial",
       "date": null,
       "detected": "2026-11-26",
@@ -103,11 +146,11 @@
       "screenshotSource": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial",
       "evidenceVersion": 2,
       "evidenceChecked": "2026-11-26",
-      "evidenceStatus": "Základní výpis ze zdroje (bez AI souhrnu)",
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
       "description": {
-        "what": "Nová edice komunitní výzvy na polském trhu.",
-        "how": "Oficiální pravidla popisují bodování vybraných typů tiketů. Přesné datum vydání zde není stanoveno.",
-        "availability": "Veřejný zdroj; konkrétní trh a termín nejsou automaticky ověřené.",
+        "what": "Krátkodobá tematická soutěž uvnitř SuperSocial, oddělená od běžného komunitního feedu.",
+        "how": "Samostatná výzva má vlastní podmínky a pořadí. Její vstupní bod je propojen s feedem, profilem a relevantním tiketem. Jednotlivé edice používají různá témata a bodovací podmínky.",
+        "availability": "Polsko; listopad 2026.",
         "changes": "Nelze určit bez porovnání předchozí verze.",
         "type": "Zachycená edice / datum vydání neznámé"
       },
@@ -119,54 +162,31 @@
       ],
       "media": [
         {
-          "url": "https://support.superbet.pl/hc/theming_assets/01HZM825DXNPB9HY40VHNC130B",
-          "label": "arrow right",
-          "kind": "image",
-          "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
-        },
-        {
-          "url": "https://support.superbet.pl/hc/theming_assets/01HZM8256MDNWZJXSM0DJKJSFC",
-          "label": "instaleaza",
-          "kind": "image",
-          "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
-        },
-        {
           "url": "https://support.superbet.pl/hc/article_attachments/40691396213394",
-          "label": "wyzwanie GTA Supersocial",
+          "label": "Oficiální obrazová příloha",
           "kind": "image",
-          "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
-        },
-        {
-          "url": "https://support.superbet.pl/hc/theming_assets/01M25P36S8V317N0WWHFZSQ03N",
-          "label": "promoted-banner-1",
-          "kind": "image",
-          "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
-        },
-        {
-          "url": "https://support.superbet.pl/hc/theming_assets/01M3YE04EF0FZTR5VPDJJB2ZNH",
-          "label": "promoted-banner-5",
-          "kind": "image",
-          "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
-        },
-        {
-          "url": "https://www.youtube.com/embed/bZYKncmLcNg",
-          "label": "promoted video",
-          "kind": "video",
-          "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
-        },
-        {
-          "url": "https://www.youtube.com/embed/kLFW0W1hJA4",
-          "label": "promoted video",
-          "kind": "video",
-          "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
-        },
-        {
-          "url": "https://support.superbet.pl/hc/theming_assets/01HZM82624SRK5DDSQCW3B5WV0",
-          "label": "Titulní obrázek článku (nemusí jít o screenshot aplikace)",
-          "kind": "cover",
           "source": "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
         }
-      ]
+      ],
+      "product": {
+        "definition": "Krátkodobá tematická soutěž uvnitř SuperSocial, oddělená od běžného komunitního feedu.",
+        "principle": "Samostatná výzva má vlastní podmínky a pořadí. Její vstupní bod je propojen s feedem, profilem a relevantním tiketem. Jednotlivé edice používají různá témata a bodovací podmínky.",
+        "features": [
+          "Karta výzvy ve feedu sledovaných",
+          "Sekce Výzvy v profilu Můj Social",
+          "Průběžné pořadí",
+          "Časově omezená edice"
+        ],
+        "rewards": "Odměny závisejí na pravidlech konkrétní edice; přesná pravidla této edice nebyla plně dostupná.",
+        "availability": "Polsko; listopad 2026.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://support.superbet.pl/hc/pl-pl/articles/40691307307794-Wyzwanie-w-Supersocial"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      }
     },
     {
       "id": "initial-3",
@@ -174,8 +194,8 @@
       "category": "komunita",
       "title": "Betano Social",
       "summary": "Komunitní prostor pro sdílení obsahu.",
-      "detail": "Nápověda pro rumunský trh popisuje existující sociální funkce.",
-      "url": "https://support-ro.betano.com/hc/en-us/articles/30290469532445-Getting-Started-with-Betano-Social",
+      "detail": "Komunitní příspěvky mohou reprezentovat sázkovou nebo herní aktivitu. Uživatelé procházejí obsah ostatních, reagují a komentují. Rozhraní propojuje příspěvek s odpovídajícím produktem, místo aby komunitu oddělovalo od hlavní aplikace.",
+      "url": "https://support.betano.cz/hc/cs/articles/30090287266205-Za%C4%8D%C3%ADn%C3%A1me-s-Betano-Social",
       "date": null,
       "detected": "2026-11-26",
       "baseline": true,
@@ -183,8 +203,36 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
-      "evidenceChecked": "2026-11-26"
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceChecked": "2026-11-26",
+      "product": {
+        "definition": "Sociální vrstva Betana, která sdružuje sázkový i herní obsah v jednom uživatelském prostoru.",
+        "principle": "Komunitní příspěvky mohou reprezentovat sázkovou nebo herní aktivitu. Uživatelé procházejí obsah ostatních, reagují a komentují. Rozhraní propojuje příspěvek s odpovídajícím produktem, místo aby komunitu oddělovalo od hlavní aplikace.",
+        "features": [
+          "Příspěvky a sdílení aktivity",
+          "Lajky a komentáře",
+          "Zobrazení obsahu dalších uživatelů",
+          "Propojení s hrami a tikety"
+        ],
+        "rewards": "Konkrétní odměny a dostupnost žebříčků závisí na místním trhu; zde nebyly ověřeny.",
+        "availability": "Česká nápověda dokumentuje lokální verzi Betano Social.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://support-ro.betano.com/hc/en-us/articles/30290469532445-Getting-Started-with-Betano-Social",
+          "https://support.betano.cz/hc/cs/articles/30090287266205-Za%C4%8D%C3%ADn%C3%A1me-s-Betano-Social"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      },
+      "description": {
+        "what": "Sociální vrstva Betana, která sdružuje sázkový i herní obsah v jednom uživatelském prostoru.",
+        "how": "Komunitní příspěvky mohou reprezentovat sázkovou nebo herní aktivitu. Uživatelé procházejí obsah ostatních, reagují a komentují. Rozhraní propojuje příspěvek s odpovídajícím produktem, místo aby komunitu oddělovalo od hlavní aplikace.",
+        "availability": "Česká nápověda dokumentuje lokální verzi Betano Social.",
+        "changes": "Změna vůči dřívějšímu stavu nebyla ověřena.",
+        "type": "Existující funkce"
+      },
+      "media": []
     },
     {
       "id": "initial-4",
@@ -192,7 +240,7 @@
       "category": "soutez",
       "title": "Betano Trivia",
       "summary": "Nový živý kvíz s generativní AI.",
-      "detail": "Spuštění oznámeno mateřskou společností Kaizen Gaming 22. 6. 2026.",
+      "detail": "Kvíz kombinuje témata sportu, zábavy a popkultury. Generativní AI vytváří dynamický obsah i audiovizuální prvky a virtuální moderátor provází diváky živým pořadem. Výsledkem je jednotný produkt, který lze provozovat na různých trzích bez klasického fyzického studia.",
       "url": "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/",
       "date": "2026-06-22",
       "detected": "2026-11-26",
@@ -205,11 +253,11 @@
       "screenshotSource": "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/",
       "evidenceVersion": 2,
       "evidenceChecked": "2026-11-26",
-      "evidenceStatus": "Základní výpis ze zdroje (bez AI souhrnu)",
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
       "description": {
-        "what": "Nový živý kvíz s generativní AI.",
-        "how": "Spuštění oznámeno mateřskou společností Kaizen Gaming 22. 6. 2026.",
-        "availability": "Veřejný zdroj; konkrétní trh a termín nejsou automaticky ověřené.",
+        "what": "Bezplatná interaktivní živá vědomostní hra vyvinutá v Kaizen Labs. Nejde o klasickou tipovačku výsledků, ale o kvízový pořad.",
+        "how": "Kvíz kombinuje témata sportu, zábavy a popkultury. Generativní AI vytváří dynamický obsah i audiovizuální prvky a virtuální moderátor provází diváky živým pořadem. Výsledkem je jednotný produkt, který lze provozovat na různých trzích bez klasického fyzického studia.",
+        "availability": "Spuštění oznámeno 22. 6. 2026; Kaizen uvádí dostupnost na 20 trzích.",
         "changes": "Nelze určit bez porovnání předchozí verze.",
         "type": "Nová funkce"
       },
@@ -224,30 +272,38 @@
       ],
       "media": [
         {
+          "kind": "video",
+          "label": "Oficiální představení Betano Trivia – Kaizen Gaming (anglicky)",
+          "url": "https://www.youtube.com/watch?v=FnNJDudxxpc",
+          "source": "https://www.youtube.com/channel/UC0cb9bFeE7WqOfQXOvIQC0Q"
+        },
+        {
           "url": "https://kaizengaming.com/wp-content/uploads/2026/06/Betano-Trivia.png",
-          "label": "Obrázek publikovaný ve zdroji",
-          "kind": "image",
-          "source": "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/"
-        },
-        {
-          "url": "https://kaizengaming.com/wp-content/uploads/2026/11/1920x1080_Hello_Philippines_P4-1.png",
-          "label": "Obrázek publikovaný ve zdroji",
-          "kind": "image",
-          "source": "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/"
-        },
-        {
-          "url": "https://kaizengaming.com/wp-content/uploads/2026/10/FLAMENGO-X-FLUMINENSE-BRASILEIRO-MARACANA-11-10-2026-36-1-scaled.jpg",
-          "label": "Obrázek publikovaný ve zdroji",
-          "kind": "image",
-          "source": "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/"
-        },
-        {
-          "url": "https://kaizengaming.com/wp-content/uploads/2026/06/KT4_8519-1-1.jpg",
-          "label": "Obrázek publikovaný ve zdroji",
+          "label": "Oficiální obrazová příloha",
           "kind": "image",
           "source": "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/"
         }
-      ]
+      ],
+      "product": {
+        "definition": "Bezplatná interaktivní živá vědomostní hra vyvinutá v Kaizen Labs. Nejde o klasickou tipovačku výsledků, ale o kvízový pořad.",
+        "principle": "Kvíz kombinuje témata sportu, zábavy a popkultury. Generativní AI vytváří dynamický obsah i audiovizuální prvky a virtuální moderátor provází diváky živým pořadem. Výsledkem je jednotný produkt, který lze provozovat na různých trzích bez klasického fyzického studia.",
+        "features": [
+          "Virtuální moderátor",
+          "Dynamicky generovaný obsah",
+          "Audiovizuální produkce",
+          "Živé vědomostní otázky",
+          "Soutěžní vyhodnocení"
+        ],
+        "rewards": "Hra je bezplatná a nabízí ceny; přesný systém bodování ani výši cen tisková zpráva neuvádí.",
+        "availability": "Spuštění oznámeno 22. 6. 2026; Kaizen uvádí dostupnost na 20 trzích.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://kaizengaming.com/news/kaizen-gaming-launches-betano-trivia-the-worlds-first-fully-genai-powered-live-trivia-experience/"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      }
     },
     {
       "id": "initial-5",
@@ -255,8 +311,8 @@
       "category": "soutez",
       "title": "Master: tipovací turnaje",
       "summary": "Bezplatné predikční turnaje.",
-      "detail": "Existující soutěžní produkt s otevřenými turnaji.",
-      "url": "https://support.betano.cz/hc/en-us/articles/39038483253021-What-is-Master-and-how-does-it-work",
+      "detail": "Otevřený turnaj má sadu otázek týkajících se reálných sportovních událostí. Predikce jsou uzavřeny před začátkem události a následně vyhodnocovány. Každý turnaj má vlastní výsledek a pravidla.",
+      "url": "https://support.betano.cz/hc/cs/articles/39038483253021-Co-je-to-Master-a-jak-funguje",
       "date": null,
       "detected": "2026-11-26",
       "baseline": true,
@@ -264,8 +320,37 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
-      "evidenceChecked": "2026-11-26"
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceChecked": "2026-11-26",
+      "product": {
+        "definition": "Bezplatný predikční produkt, ve kterém jsou sportovní otázky uspořádané do turnajů.",
+        "principle": "Otevřený turnaj má sadu otázek týkajících se reálných sportovních událostí. Predikce jsou uzavřeny před začátkem události a následně vyhodnocovány. Každý turnaj má vlastní výsledek a pravidla.",
+        "features": [
+          "Turnajová nabídka",
+          "Sada sportovních otázek",
+          "Časová uzávěrka",
+          "Vyhodnocení predikcí"
+        ],
+        "rewards": "Výsledky a ceny se řídí podmínkami konkrétního turnaje; vstup do hry je bezplatný.",
+        "availability": "Dostupnost popisuje česká nápověda, další varianty existují v Latinské Americe.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://support.betano.cz/hc/en-us/articles/39038483253021-What-is-Master-and-how-does-it-work",
+          "https://support.betano.cz/hc/cs/articles/39038483253021-Co-je-to-Master-a-jak-funguje",
+          "https://support.betano.co/hc/en-us/articles/37308881592733-What-is-Betano-Master"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      },
+      "description": {
+        "what": "Bezplatný predikční produkt, ve kterém jsou sportovní otázky uspořádané do turnajů.",
+        "how": "Otevřený turnaj má sadu otázek týkajících se reálných sportovních událostí. Predikce jsou uzavřeny před začátkem události a následně vyhodnocovány. Každý turnaj má vlastní výsledek a pravidla.",
+        "availability": "Dostupnost popisuje česká nápověda, další varianty existují v Latinské Americe.",
+        "changes": "Změna vůči dřívějšímu stavu nebyla ověřena.",
+        "type": "Existující funkce"
+      },
+      "media": []
     },
     {
       "id": "initial-6",
@@ -273,7 +358,7 @@
       "category": "komunita",
       "title": "Sisal Tipster",
       "summary": "Publikování tipů a sledování tipérů.",
-      "detail": "Oficiální italská stránka popisuje účast v komunitě.",
+      "detail": "Tipsteři publikují vlastní tipy a mohou sledovat další autory. Platforma zahrnuje pořadí a reputační prvky. Sisal ji doplňuje redakčními materiály a expertním obsahem, takže nejde pouze o seznam tiketů.",
       "url": "https://www.sisal.it/scommesse-matchpoint/tipster/tipsters",
       "date": null,
       "detected": "2026-11-26",
@@ -282,8 +367,38 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
-      "evidenceChecked": "2026-11-26"
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceChecked": "2026-11-26",
+      "product": {
+        "definition": "Sociální produkt Sisalu postavený na tipérských profilech a sportovním obsahu.",
+        "principle": "Tipsteři publikují vlastní tipy a mohou sledovat další autory. Platforma zahrnuje pořadí a reputační prvky. Sisal ji doplňuje redakčními materiály a expertním obsahem, takže nejde pouze o seznam tiketů.",
+        "features": [
+          "Profil tipéra",
+          "Publikování tipů",
+          "Sledování dalších autorů",
+          "Ranking",
+          "Redakční analýzy"
+        ],
+        "rewards": "Přesné podmínky případných odměn nebyly ověřeny.",
+        "availability": "Itálie; existující funkce.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://www.sisal.it/scommesse-matchpoint/tipster/tipsters",
+          "https://www.sisal.it/news/tipster-30-mila-iscritti-e-300-mila-tip-per-la-community-di-social-betting-di-sisal",
+          "https://www.sisal.com/news-media/comunicati-stampa/giochi/sanremo-2023-sisal-tipster-porta-t-quality"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      },
+      "description": {
+        "what": "Sociální produkt Sisalu postavený na tipérských profilech a sportovním obsahu.",
+        "how": "Tipsteři publikují vlastní tipy a mohou sledovat další autory. Platforma zahrnuje pořadí a reputační prvky. Sisal ji doplňuje redakčními materiály a expertním obsahem, takže nejde pouze o seznam tiketů.",
+        "availability": "Itálie; existující funkce.",
+        "changes": "Změna vůči dřívějšímu stavu nebyla ověřena.",
+        "type": "Existující funkce"
+      },
+      "media": []
     },
     {
       "id": "initial-7",
@@ -291,7 +406,7 @@
       "category": "komunita",
       "title": "The Feed",
       "summary": "Sdílení a prohlížení komunitních tiketů.",
-      "detail": "Nápověda popisuje existující sociální feed.",
+      "detail": "Rozhraní je rozděleno podle obsahu a sledovaných profilů. Členové mají vlastní přezdívku a avatar. Příspěvky zobrazují údaje o sdílené sázce a počet převzetí; komunitní obsah je napojený na tiketové rozhraní.",
       "url": "https://helpcentre.sportsbet.com.au/hc/en-us/articles/21274673366029-Feed-FAQs",
       "date": null,
       "detected": "2026-11-26",
@@ -300,8 +415,37 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
-      "evidenceChecked": "2026-11-26"
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceChecked": "2026-11-26",
+      "product": {
+        "definition": "Komunitní feed integrovaný do mobilní aplikace Sportsbet, zaměřený na sportovní a dostihové příspěvky.",
+        "principle": "Rozhraní je rozděleno podle obsahu a sledovaných profilů. Členové mají vlastní přezdívku a avatar. Příspěvky zobrazují údaje o sdílené sázce a počet převzetí; komunitní obsah je napojený na tiketové rozhraní.",
+        "features": [
+          "Sportovní a dostihový feed",
+          "Profil a avatar",
+          "Sledované účty",
+          "Počítadlo převzetí příspěvku",
+          "Integrace s tiketovým rozhraním"
+        ],
+        "rewards": "Nápověda zde nepopisuje samostatnou odměnu za komunitní aktivitu.",
+        "availability": "Austrálie; podle nápovědy dostupné v aplikaci iOS a Android.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://helpcentre.sportsbet.com.au/hc/en-us/articles/21274673366029-Feed-FAQs",
+          "https://www.sportsbet.com.au/huddle/punter-iq/guide/what-is-the-feed"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      },
+      "description": {
+        "what": "Komunitní feed integrovaný do mobilní aplikace Sportsbet, zaměřený na sportovní a dostihové příspěvky.",
+        "how": "Rozhraní je rozděleno podle obsahu a sledovaných profilů. Členové mají vlastní přezdívku a avatar. Příspěvky zobrazují údaje o sdílené sázce a počet převzetí; komunitní obsah je napojený na tiketové rozhraní.",
+        "availability": "Austrálie; podle nápovědy dostupné v aplikaci iOS a Android.",
+        "changes": "Změna vůči dřívějšímu stavu nebyla ověřena.",
+        "type": "Existující funkce"
+      },
+      "media": []
     },
     {
       "id": "initial-8",
@@ -309,7 +453,7 @@
       "category": "komunita",
       "title": "Bet With Mates",
       "summary": "Existující skupinová funkce pro přátele.",
-      "detail": "Produktový průvodce popisuje skupinový režim; datum článku není datem uvedení funkce.",
+      "detail": "Produkt převádí neformální skupinové sázení do aplikace. Každá skupina má správce, pravidla příspěvků a společný stav prostředků. Systém řeší evidenci podílů členů a vypořádání při odchodu.",
       "url": "https://www.sportsbet.com.au/huddle/punter-iq/guide/how-to-use-bet-with-mates",
       "date": null,
       "detected": "2026-11-26",
@@ -318,8 +462,45 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
-      "evidenceChecked": "2026-11-26"
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceChecked": "2026-11-26",
+      "product": {
+        "definition": "Skupinový sázkový režim, ve kterém existuje společný účetní kontext pro skupinu přátel.",
+        "principle": "Produkt převádí neformální skupinové sázení do aplikace. Každá skupina má správce, pravidla příspěvků a společný stav prostředků. Systém řeší evidenci podílů členů a vypořádání při odchodu.",
+        "features": [
+          "Soukromá skupina minimálně dvou osob",
+          "Role správce",
+          "Sdílený zůstatek",
+          "Evidence podílů",
+          "Možnost skupinu opustit"
+        ],
+        "rewards": "Nejde o samostatnou bezplatnou soutěž; pracuje se společnými finančními prostředky členů.",
+        "availability": "Austrálie; podmínky skupin popisuje oficiální nápověda.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://www.sportsbet.com.au/huddle/punter-iq/guide/how-to-use-bet-with-mates",
+          "https://helpcentre.sportsbet.com.au/hc/en-us/articles/18425158386317-What-Is-Bet-With-Mates",
+          "https://helpcentre.sportsbet.com.au/hc/en-us/articles/360059822412-Sportsbet-Bet-With-Mates-and-Bet-With-Greats-Terms-Conditions"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      },
+      "description": {
+        "what": "Skupinový sázkový režim, ve kterém existuje společný účetní kontext pro skupinu přátel.",
+        "how": "Produkt převádí neformální skupinové sázení do aplikace. Každá skupina má správce, pravidla příspěvků a společný stav prostředků. Systém řeší evidenci podílů členů a vypořádání při odchodu.",
+        "availability": "Austrálie; podmínky skupin popisuje oficiální nápověda.",
+        "changes": "Změna vůči dřívějšímu stavu nebyla ověřena.",
+        "type": "Existující funkce"
+      },
+      "media": [
+        {
+          "kind": "video",
+          "label": "Případová studie reklamní kampaně Bet With Mates (anglicky)",
+          "url": "https://www.dreamscreenaustralia.com/ourwork/sportsbet",
+          "source": "https://www.dreamscreenaustralia.com/ourwork/sportsbet"
+        }
+      ]
     },
     {
       "id": "initial-9",
@@ -327,7 +508,7 @@
       "category": "soutez",
       "title": "Pools: soukromé tipovací soutěže",
       "summary": "Vytvoření vlastního poolu s přáteli.",
-      "detail": "Oficiální přehled dokumentuje existující soutěžní formát.",
+      "detail": "Každý pool má samostatnou kartu s otázkami, uzávěrku a podmínky vyhodnocení. Soutěžní výsledek se odvíjí od správnosti odpovědí podle pravidel konkrétního poolu. Produkty se liší od klasického tiketu tím, že účastník pracuje se soutěžní kartou.",
       "url": "https://sportsbook.draftkings.com/pools",
       "date": null,
       "detected": "2026-11-26",
@@ -336,8 +517,36 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
-      "evidenceChecked": "2026-11-26"
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceChecked": "2026-11-26",
+      "product": {
+        "definition": "Formát predikčních soutěží založených na kartě sportovních událostí.",
+        "principle": "Každý pool má samostatnou kartu s otázkami, uzávěrku a podmínky vyhodnocení. Soutěžní výsledek se odvíjí od správnosti odpovědí podle pravidel konkrétního poolu. Produkty se liší od klasického tiketu tím, že účastník pracuje se soutěžní kartou.",
+        "features": [
+          "Soutěžní karta",
+          "Uzávěrka",
+          "Vyhodnocení jednotlivých predikcí",
+          "Podmínky konkrétního poolu"
+        ],
+        "rewards": "Mohou existovat různé vstupní a výherní podmínky; nelze je zobecnit na všechny pooly.",
+        "availability": "USA; dostupnost podle jurisdikce a konkrétní soutěže.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://sportsbook.draftkings.com/pools",
+          "https://sportsbook.draftkings.com/help/pools/game-conditions"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      },
+      "description": {
+        "what": "Formát predikčních soutěží založených na kartě sportovních událostí.",
+        "how": "Každý pool má samostatnou kartu s otázkami, uzávěrku a podmínky vyhodnocení. Soutěžní výsledek se odvíjí od správnosti odpovědí podle pravidel konkrétního poolu. Produkty se liší od klasického tiketu tím, že účastník pracuje se soutěžní kartou.",
+        "availability": "USA; dostupnost podle jurisdikce a konkrétní soutěže.",
+        "changes": "Změna vůči dřívějšímu stavu nebyla ověřena.",
+        "type": "Existující funkce"
+      },
+      "media": []
     },
     {
       "id": "initial-10",
@@ -345,7 +554,7 @@
       "category": "soutez",
       "title": "Wizjoner",
       "summary": "Bezplatná predikční hra.",
-      "detail": "Oficiální nápověda dokumentuje existující produkt.",
+      "detail": "Každé kolo obsahuje nový soubor zápasů. Hra vyhodnotí počet správných predikcí a podle pravidel kola určuje odpovídající bonus. Rozhraní je umístěno v sekci Promoce aplikace i v hlavním menu webu.",
       "url": "https://pomoc.sts.pl/wizjoner/",
       "date": null,
       "detected": "2026-11-26",
@@ -358,11 +567,11 @@
       "screenshotSource": "https://pomoc.sts.pl/wizjoner/",
       "evidenceVersion": 2,
       "evidenceChecked": "2026-11-26",
-      "evidenceStatus": "Základní výpis ze zdroje (bez AI souhrnu)",
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
       "description": {
-        "what": "Bezplatná predikční hra.",
-        "how": "Oficiální nápověda dokumentuje existující produkt.",
-        "availability": "Veřejný zdroj; konkrétní trh a termín nejsou automaticky ověřené.",
+        "what": "Bezplatná predikční hra pro ověřené zákazníky STS.",
+        "how": "Každé kolo obsahuje nový soubor zápasů. Hra vyhodnotí počet správných predikcí a podle pravidel kola určuje odpovídající bonus. Rozhraní je umístěno v sekci Promoce aplikace i v hlavním menu webu.",
+        "availability": "Polsko; ověření účtu je podmínkou.",
         "changes": "Nelze určit bez porovnání předchozí verze.",
         "type": "Existující funkce"
       },
@@ -378,41 +587,60 @@
       "media": [
         {
           "url": "https://cdn.livechat-files.com/api/file/kb/file/4965271/4fa4b99d9e-2c9ff576b9ae7b32f467.png",
-          "label": "Obrázek publikovaný ve zdroji",
+          "label": "Oficiální obrazová příloha",
           "kind": "image",
           "source": "https://pomoc.sts.pl/wizjoner/"
         },
         {
           "url": "https://cdn.livechat-files.com/api/file/kb/file/4965271/6d911c5b7b-08dd35889e08fd38315d.png",
-          "label": "Obrázek publikovaný ve zdroji",
+          "label": "Oficiální obrazová příloha",
           "kind": "image",
           "source": "https://pomoc.sts.pl/wizjoner/"
         },
         {
           "url": "https://cdn.livechat-files.com/api/file/kb/file/4965271/3cbd898932-9580f8e0cebd4a1f32c5.png",
-          "label": "Obrázek publikovaný ve zdroji",
+          "label": "Oficiální obrazová příloha",
           "kind": "image",
           "source": "https://pomoc.sts.pl/wizjoner/"
         },
         {
           "url": "https://cdn.livechat-files.com/api/file/kb/file/4965271/c6d92b7df6-c1074dceeb600e62a6bb.png",
-          "label": "Obrázek publikovaný ve zdroji",
+          "label": "Oficiální obrazová příloha",
           "kind": "image",
           "source": "https://pomoc.sts.pl/wizjoner/"
         },
         {
           "url": "https://cdn.livechat-files.com/api/file/kb/file/4965271/9b9f1996e3-91a1f7433b5ed96c0ad8.png",
-          "label": "Obrázek publikovaný ve zdroji",
+          "label": "Oficiální obrazová příloha",
           "kind": "image",
           "source": "https://pomoc.sts.pl/wizjoner/"
         },
         {
           "url": "https://cdn.livechat-static.com/api/file/kb/file/4965271/66d7661d16-e6556a56c2722ed3a6a5.png",
-          "label": "Titulní obrázek článku (nemusí jít o screenshot aplikace)",
+          "label": "Titulní obrázek zdroje",
           "kind": "cover",
           "source": "https://pomoc.sts.pl/wizjoner/"
         }
-      ]
+      ],
+      "product": {
+        "definition": "Bezplatná predikční hra pro ověřené zákazníky STS.",
+        "principle": "Každé kolo obsahuje nový soubor zápasů. Hra vyhodnotí počet správných predikcí a podle pravidel kola určuje odpovídající bonus. Rozhraní je umístěno v sekci Promoce aplikace i v hlavním menu webu.",
+        "features": [
+          "Opakující se kola",
+          "Přehled zápasů",
+          "Vyhodnocení správných odpovědí",
+          "Bonus podle výsledku"
+        ],
+        "rewards": "Podrobné hodnoty se mohou měnit podle kola. Základní formát je zdarma.",
+        "availability": "Polsko; ověření účtu je podmínkou.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://pomoc.sts.pl/wizjoner/"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      }
     },
     {
       "id": "initial-11",
@@ -420,7 +648,7 @@
       "category": "bonus",
       "title": "STS: přehled loajality a odměn",
       "summary": "STS Club, BonuSeria a Winbooster.",
-      "detail": "Oficiální nápověda shrnuje existující zákaznické mechanismy.",
+      "detail": "STS Club eviduje virtuální mince a katalog odměn. Winbooster představuje jiný typ odměny než běžný bonus; je dostupný také v katalogu. BonuSeria a Maraton jsou další samostatné programy, nikoli totéž co STS Club.",
       "url": "https://pomoc.sts.pl/promocje-i-bonusy/",
       "date": null,
       "detected": "2026-11-26",
@@ -431,11 +659,11 @@
       "screenshot": null,
       "evidenceVersion": 2,
       "evidenceChecked": "2026-11-26",
-      "evidenceStatus": "Základní výpis ze zdroje (bez AI souhrnu)",
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
       "description": {
-        "what": "STS Club, BonuSeria a Winbooster.",
-        "how": "Oficiální nápověda shrnuje existující zákaznické mechanismy.",
-        "availability": "Veřejný zdroj; konkrétní trh a termín nejsou automaticky ověřené.",
+        "what": "Portfolio věrnostních produktů STS, z nichž STS Club je samostatný bodový program.",
+        "how": "STS Club eviduje virtuální mince a katalog odměn. Winbooster představuje jiný typ odměny než běžný bonus; je dostupný také v katalogu. BonuSeria a Maraton jsou další samostatné programy, nikoli totéž co STS Club.",
+        "availability": "Polsko; program spravovaný v zákaznickém profilu.",
         "changes": "Nelze určit bez porovnání předchozí verze.",
         "type": "Existující funkce"
       },
@@ -446,11 +674,33 @@
       "media": [
         {
           "url": "https://cdn.livechat-static.com/api/file/kb/file/4965271/66d7661d16-e6556a56c2722ed3a6a5.png",
-          "label": "Titulní obrázek článku (nemusí jít o screenshot aplikace)",
+          "label": "Titulní obrázek zdroje",
           "kind": "cover",
           "source": "https://pomoc.sts.pl/promocje-i-bonusy/"
         }
-      ]
+      ],
+      "product": {
+        "definition": "Portfolio věrnostních produktů STS, z nichž STS Club je samostatný bodový program.",
+        "principle": "STS Club eviduje virtuální mince a katalog odměn. Winbooster představuje jiný typ odměny než běžný bonus; je dostupný také v katalogu. BonuSeria a Maraton jsou další samostatné programy, nikoli totéž co STS Club.",
+        "features": [
+          "Úkoly a evidované mince",
+          "Katalog odměn",
+          "Bonusy i věcné ceny",
+          "Winbooster",
+          "Přehled platnosti mincí"
+        ],
+        "rewards": "Oficiální nápověda uvádí 180denní platnost jednotlivých mincí. Přesná pravidla programů jsou v samostatných dokumentech.",
+        "availability": "Polsko; program spravovaný v zákaznickém profilu.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://pomoc.sts.pl/promocje-i-bonusy/",
+          "https://pomoc.sts.pl/sts-club/",
+          "https://pomoc.sts.pl/winbooster/"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      }
     },
     {
       "id": "initial-12",
@@ -458,7 +708,7 @@
       "category": "komunita",
       "title": "SBK Bet Feed",
       "summary": "Sociální feed s uživatelskými příspěvky.",
-      "detail": "Oficiální nápověda k existující funkci.",
+      "detail": "Feed rozlišuje otevřené a vyhodnocené příspěvky. Obsah lze řadit podle popularity, stáří a sledovaných účtů, dále podle typu tiketu. Profil zobrazuje počty sázek, sledujících a nedávnou výkonnost. Uživatel ovládá veřejnost profilu i automatické sdílení.",
       "url": "https://help.getsbk.com/hc/en-gb/articles/29396235917725-Introducing-the-SBK-Bet-Feed",
       "date": null,
       "detected": "2026-11-26",
@@ -467,8 +717,49 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
-      "evidenceChecked": "2026-11-26"
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceChecked": "2026-11-26",
+      "product": {
+        "definition": "Sociální časová osa SBK dostupná přímo z hlavní stránky mobilní aplikace.",
+        "principle": "Feed rozlišuje otevřené a vyhodnocené příspěvky. Obsah lze řadit podle popularity, stáří a sledovaných účtů, dále podle typu tiketu. Profil zobrazuje počty sázek, sledujících a nedávnou výkonnost. Uživatel ovládá veřejnost profilu i automatické sdílení.",
+        "features": [
+          "Filtry Popular / Latest / Following",
+          "Otevřené a vyhodnocené příspěvky",
+          "Profil a historie",
+          "Lajky, komentáře a sdílení",
+          "Veřejný nebo soukromý profil"
+        ],
+        "rewards": "Dokumentace uvádí týdenní a měsíční žebříčky jako plánované; aktuální nasazení nelze potvrdit.",
+        "availability": "UK; oficiální nápověda z 6. 8. 2025.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://help.getsbk.com/hc/en-gb/articles/29396235917725-Introducing-the-SBK-Bet-Feed"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      },
+      "description": {
+        "what": "Sociální časová osa SBK dostupná přímo z hlavní stránky mobilní aplikace.",
+        "how": "Feed rozlišuje otevřené a vyhodnocené příspěvky. Obsah lze řadit podle popularity, stáří a sledovaných účtů, dále podle typu tiketu. Profil zobrazuje počty sázek, sledujících a nedávnou výkonnost. Uživatel ovládá veřejnost profilu i automatické sdílení.",
+        "availability": "UK; oficiální nápověda z 6. 8. 2025.",
+        "changes": "Změna vůči dřívějšímu stavu nebyla ověřena.",
+        "type": "Existující funkce"
+      },
+      "media": [
+        {
+          "kind": "image",
+          "label": "Vstup do Bet Feed na hlavní stránce aplikace",
+          "url": "https://help.getsbk.com/hc/article_attachments/29396258205853",
+          "source": "https://help.getsbk.com/hc/en-gb/articles/29396235917725-Introducing-the-SBK-Bet-Feed"
+        },
+        {
+          "kind": "image",
+          "label": "Nastavení soukromí: veřejný profil a automatické sdílení",
+          "url": "https://help.getsbk.com/hc/article_attachments/29396235913757",
+          "source": "https://help.getsbk.com/hc/en-gb/articles/29396235917725-Introducing-the-SBK-Bet-Feed"
+        }
+      ]
     },
     {
       "id": "initial-13",
@@ -476,7 +767,7 @@
       "category": "bonus",
       "title": "The Assist",
       "summary": "Odměnový mechanismus spojený s komunitním obsahem.",
-      "detail": "Podmínky kampaně jsou zveřejněny v nápovědě SBK. Nejde o doloženou novinku aktuálního týdne.",
+      "detail": "Systém eviduje kvalifikovaná převzetí původního příspěvku ostatními zákazníky a přiřazuje autorovi odměnu. Pravidla omezují duplicity a vyžadují vyhodnocení převzaté sázky. Jde tedy o samostatnou promo vrstvu nad komunitním produktem.",
       "url": "https://help.getsbk.com/hc/en-gb/articles/32566049911069-The-Assist-T-Cs",
       "date": null,
       "detected": "2026-11-26",
@@ -485,8 +776,35 @@
       "source": "Oficiální veřejný zdroj",
       "confidence": "Ručně ověřený zdroj",
       "screenshot": null,
-      "evidenceStatus": "Zdroj nedostupný nebo bez použitelného obsahu",
-      "evidenceChecked": "2026-11-26"
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "evidenceChecked": "2026-11-26",
+      "product": {
+        "definition": "Odměnový program navázaný na sdílený obsah v SBK Bet Feed.",
+        "principle": "Systém eviduje kvalifikovaná převzetí původního příspěvku ostatními zákazníky a přiřazuje autorovi odměnu. Pravidla omezují duplicity a vyžadují vyhodnocení převzaté sázky. Jde tedy o samostatnou promo vrstvu nad komunitním produktem.",
+        "features": [
+          "Evidence původního příspěvku",
+          "Počítadlo kvalifikovaných převzetí",
+          "Průběžné vyhodnocování",
+          "Týdenní strop odměn"
+        ],
+        "rewards": "Oficiální podmínky stanovují odměnu 1 £/€ za pět kvalifikovaných převzetí a týdenní limit 20 £/€. Jde o bonusové prostředky, nikoli hotovost.",
+        "availability": "UK a Irsko; podmínky uvádějí konec 31. 12. 2026.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://help.getsbk.com/hc/en-gb/articles/32566049911069-The-Assist-T-Cs"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      },
+      "description": {
+        "what": "Odměnový program navázaný na sdílený obsah v SBK Bet Feed.",
+        "how": "Systém eviduje kvalifikovaná převzetí původního příspěvku ostatními zákazníky a přiřazuje autorovi odměnu. Pravidla omezují duplicity a vyžadují vyhodnocení převzaté sázky. Jde tedy o samostatnou promo vrstvu nad komunitním produktem.",
+        "availability": "UK a Irsko; podmínky uvádějí konec 31. 12. 2026.",
+        "changes": "Změna vůči dřívějšímu stavu nebyla ověřena.",
+        "type": "Existující funkce"
+      },
+      "media": []
     },
     {
       "id": "initial-14",
@@ -494,7 +812,7 @@
       "category": "soutez",
       "title": "Super 6: 19. kolo",
       "summary": "Další kolo pravidelné fotbalové tipovací hry.",
-      "detail": "Oficiální přehled uvádí termín 29. 11. 2026. Jde o opakovanou edici, nikoli novou mechaniku.",
+      "detail": "Každé kolo obsahuje šest určených fotbalových zápasů a porovnává predikce s výsledky. Vedle celkové soutěže existují soukromé miniligy, v nichž se mohou porovnávat přátelé.",
       "url": "https://www.skysports.com/games",
       "date": null,
       "detected": "2026-11-26",
@@ -505,11 +823,11 @@
       "screenshot": null,
       "evidenceVersion": 2,
       "evidenceChecked": "2026-11-26",
-      "evidenceStatus": "Základní výpis ze zdroje (bez AI souhrnu)",
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
       "description": {
-        "what": "Další kolo pravidelné fotbalové tipovací hry.",
-        "how": "Oficiální přehled uvádí termín 29. 11. 2026. Jde o opakovanou edici, nikoli novou mechaniku.",
-        "availability": "Veřejný zdroj; konkrétní trh a termín nejsou automaticky ověřené.",
+        "what": "Pravidelná bezplatná fotbalová tipovačka šesti zápasů, oddělená od klasického sázení.",
+        "how": "Každé kolo obsahuje šest určených fotbalových zápasů a porovnává predikce s výsledky. Vedle celkové soutěže existují soukromé miniligy, v nichž se mohou porovnávat přátelé.",
+        "availability": "UK; 19. kolo uvedeno pro 29. 11. 2026.",
         "changes": "Nelze určit bez porovnání předchozí verze.",
         "type": "Zachycená edice / datum vydání neznámé"
       },
@@ -519,20 +837,27 @@
       "sourceHeadings": [
         "icon_arrow-right Round 19 icon_arrow-right"
       ],
-      "media": [
-        {
-          "url": "https://e0.365dm.com/24/09/768x432/skysports-super-6-winner_6674743.jpg?20240904095121",
-          "label": "Tom from Southampton became a millionaire for free with Super 6 after correctly predicting all six scorelines!",
-          "kind": "image",
-          "source": "https://www.skysports.com/games"
-        },
-        {
-          "url": "https://e0.365dm.com/20/09/1024x453/skysports-nfl-pickem_5092995.png?20200911112626",
-          "label": "NFL Pick Em",
-          "kind": "image",
-          "source": "https://www.skysports.com/games"
-        }
-      ]
+      "media": [],
+      "product": {
+        "definition": "Pravidelná bezplatná fotbalová tipovačka šesti zápasů, oddělená od klasického sázení.",
+        "principle": "Každé kolo obsahuje šest určených fotbalových zápasů a porovnává predikce s výsledky. Vedle celkové soutěže existují soukromé miniligy, v nichž se mohou porovnávat přátelé.",
+        "features": [
+          "Šest zápasů v kole",
+          "Průběžné bodování",
+          "Celková soutěž",
+          "Soukromé miniligy"
+        ],
+        "rewards": "Ceny a pravidla se řídí konkrétní edicí; jejich aktuální výše nebyla ověřena.",
+        "availability": "UK; 19. kolo uvedeno pro 29. 11. 2026.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://www.skysports.com/games",
+          "https://super6.skysports.com/"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      }
     },
     {
       "id": "sbk-arena-winter-2026",
@@ -540,7 +865,7 @@
       "category": "soutez",
       "title": "SBK Arena – zimní šestitýdenní soutěž",
       "summary": "Nová zimní edice týdenní bodované soutěže od 24. listopadu.",
-      "detail": "Oficiální nápověda popisuje šest týdenních kol probíhajících od úterý do neděle. Účastníci jsou vyhodnocováni podle skóre; odměny jsou navázány na pořadí. Nejde o doložené zavedení zcela nové platformy.",
+      "detail": "Soutěž používá skóre účastníků a konečné pořadí. Veřejný popis uvádí výhry ve formě bonusových tokenů. Detail způsobu výpočtu skóre se nepodařilo ověřit v plném znění pravidel.",
       "url": "https://help.getsbk.com/hc/en-gb/articles/40904046984477-SBK-Arena-Winter-2026",
       "date": "2026-11-24",
       "kind": "Nová edice soutěže",
@@ -550,13 +875,33 @@
       "confidence": "Ručně dohledaný oficiální zdroj; dostupnost celého článku se může lišit.",
       "screenshot": null,
       "description": {
-        "what": "Nová zimní edice týdenní bodované soutěže od 24. listopadu.",
-        "how": "Oficiální nápověda popisuje šest týdenních kol probíhajících od úterý do neděle. Účastníci jsou vyhodnocováni podle skóre; odměny jsou navázány na pořadí. Nejde o doložené zavedení zcela nové platformy.",
-        "availability": "Zimní edice 2026, začátek 24. listopadu; konkrétní trhy je nutné ověřit v podmínkách.",
+        "what": "Samostatná bezplatná hra SBK Arena v zimní šestitýdenní soutěžní edici.",
+        "how": "Soutěž používá skóre účastníků a konečné pořadí. Veřejný popis uvádí výhry ve formě bonusových tokenů. Detail způsobu výpočtu skóre se nepodařilo ověřit v plném znění pravidel.",
+        "availability": "Zimní edice od 24. 11. 2026; údaje o jednotlivých trzích vyžadují ověření.",
         "changes": "Nová tematická edice; změna základní mechaniky nedoložena.",
         "type": "Nová edice soutěže"
       },
-      "evidenceStatus": "Ručně dohledáno 26. 11. 2026; obrazové podklady budou doplněny při sběru."
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "product": {
+        "definition": "Samostatná bezplatná hra SBK Arena v zimní šestitýdenní soutěžní edici.",
+        "principle": "Soutěž používá skóre účastníků a konečné pořadí. Veřejný popis uvádí výhry ve formě bonusových tokenů. Detail způsobu výpočtu skóre se nepodařilo ověřit v plném znění pravidel.",
+        "features": [
+          "Opakovaná týdenní kola",
+          "Skóre",
+          "Pořadí",
+          "Odměnové tokeny"
+        ],
+        "rewards": "Bezplatná účast; přesný počet a hodnota cen nejsou ověřené.",
+        "availability": "Zimní edice od 24. 11. 2026; údaje o jednotlivých trzích vyžadují ověření.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://help.getsbk.com/hc/en-gb/articles/40904046984477-SBK-Arena-Winter-2026"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      },
+      "media": []
     },
     {
       "id": "superbet-ro-nov23-2026",
@@ -564,7 +909,7 @@
       "category": "soutez",
       "title": "SuperSocial – nová týdenní výzva v Rumunsku",
       "summary": "Další tematická komunitní výzva v období 23.–30. listopadu.",
-      "detail": "Výzva je součástí SuperSocial a využívá existující komunitní prostředí. Oficiální pravidla uvádějí období 23.–30. listopadu 2026 a propojení s vybranými sázkovými produkty. Jde o novou edici, nikoli ověřenou změnu platformy.",
+      "detail": "Soutěž má samostatné přihlášení v komunitní sekci a bodovací tabulku. Podmínky vymezují kvalifikované typy výběrů, z nichž se počítá výsledné skóre. Nelze ji zaměňovat s novým komunitním modulem.",
       "url": "https://superbet.ro/wiki/provocarea-101-betbuilder-23112026",
       "date": null,
       "kind": "Nová edice soutěže",
@@ -574,13 +919,34 @@
       "confidence": "Ručně dohledaný oficiální zdroj; dostupnost celého článku se může lišit.",
       "screenshot": null,
       "description": {
-        "what": "Další tematická komunitní výzva v období 23.–30. listopadu.",
-        "how": "Výzva je součástí SuperSocial a využívá existující komunitní prostředí. Oficiální pravidla uvádějí období 23.–30. listopadu 2026 a propojení s vybranými sázkovými produkty. Jde o novou edici, nikoli ověřenou změnu platformy.",
-        "availability": "Rumunsko; 23.–30. listopadu 2026.",
+        "what": "Časově omezená výzva SuperSocial na rumunském trhu, navázaná na konkrétní typ sázkového produktu.",
+        "how": "Soutěž má samostatné přihlášení v komunitní sekci a bodovací tabulku. Podmínky vymezují kvalifikované typy výběrů, z nichž se počítá výsledné skóre. Nelze ji zaměňovat s novým komunitním modulem.",
+        "availability": "Rumunsko, 23.–30. 11. 2026.",
         "changes": "Nová tematická edice; změna základní mechaniky nedoložena.",
         "type": "Nová edice soutěže"
       },
-      "evidenceStatus": "Ručně dohledáno 26. 11. 2026; obrazové podklady budou doplněny při sběru."
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "product": {
+        "definition": "Časově omezená výzva SuperSocial na rumunském trhu, navázaná na konkrétní typ sázkového produktu.",
+        "principle": "Soutěž má samostatné přihlášení v komunitní sekci a bodovací tabulku. Podmínky vymezují kvalifikované typy výběrů, z nichž se počítá výsledné skóre. Nelze ji zaměňovat s novým komunitním modulem.",
+        "features": [
+          "Samostatná soutěžní edice",
+          "Vstupní karta v SuperSocial",
+          "Kvalifikace podle pravidel edice",
+          "Žebříček"
+        ],
+        "rewards": "Odměny jsou bonusového typu; konkrétní hodnotu a skupiny účastníků je třeba ověřit podle dané varianty.",
+        "availability": "Rumunsko, 23.–30. 11. 2026.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://superbet.ro/wiki/provocarea-101-betbuilder-23112026",
+          "https://suport.superbet.ro/hc/ro/articles/37557502074770-Provocarea-Bet-builder-%C3%AEn-SuperSocial"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      },
+      "media": []
     },
     {
       "id": "sisal-time-escape-2026",
@@ -588,7 +954,7 @@
       "category": "bonus",
       "title": "Time Escape – tematická hra s misemi a sbíráním",
       "summary": "Listopadová edice gamifikovaného programu inspirovaná 90. lety.",
-      "detail": "Program propojuje tematické mise, kvízy, virtuální sběratelské předměty a herní měnu. Oficiální stránka uvádí období 16.–29. listopadu 2026. Stejný koncept existoval také v roce 2025, takže jde o novou edici existující hry.",
+      "detail": "Edice popisuje mise, kvízy, virtuální předměty a měnu. Dřívější dokumentace z roku 2025 navíc popisuje mapu s několika lokacemi, postavu doktora Bita, portál pro sbírku, jednotlivé fáze a týmový režim. Tyto podrobnosti slouží jako historický kontext; nelze potvrdit, že se všechny opakují beze změny v roce 2026.",
       "url": "https://www.sisal.it/bonus/special-game-time-escape",
       "date": "2026-11-18",
       "kind": "Opakovaná edice bonusové hry",
@@ -598,16 +964,39 @@
       "confidence": "Ručně dohledaný oficiální zdroj; dostupnost celého článku se může lišit.",
       "screenshot": null,
       "description": {
-        "what": "Listopadová edice gamifikovaného programu inspirovaná 90. lety.",
-        "how": "Program propojuje tematické mise, kvízy, virtuální sběratelské předměty a herní měnu. Oficiální stránka uvádí období 16.–29. listopadu 2026. Stejný koncept existoval také v roce 2025, takže jde o novou edici existující hry.",
-        "availability": "Itálie, 16.–29. listopadu 2026; datum 18. listopadu je datum oznámení v sekci Sisal News.",
+        "what": "Tematická gamifikovaná promo hra s příběhem cestování časem do devadesátých let.",
+        "how": "Edice popisuje mise, kvízy, virtuální předměty a měnu. Dřívější dokumentace z roku 2025 navíc popisuje mapu s několika lokacemi, postavu doktora Bita, portál pro sbírku, jednotlivé fáze a týmový režim. Tyto podrobnosti slouží jako historický kontext; nelze potvrdit, že se všechny opakují beze změny v roce 2026.",
+        "availability": "Itálie, 16.–29. 11. 2026; Sisal News potvrzuje současnou edici.",
         "changes": "Nová tematická edice; změna základní mechaniky nedoložena.",
         "type": "Opakovaná edice bonusové hry"
       },
-      "evidenceStatus": "Ručně dohledáno 26. 11. 2026; obrazové podklady budou doplněny při sběru.",
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
       "additionalSources": [
         "https://www.sisal.it/news/"
-      ]
+      ],
+      "product": {
+        "definition": "Tematická gamifikovaná promo hra s příběhem cestování časem do devadesátých let.",
+        "principle": "Edice popisuje mise, kvízy, virtuální předměty a měnu. Dřívější dokumentace z roku 2025 navíc popisuje mapu s několika lokacemi, postavu doktora Bita, portál pro sbírku, jednotlivé fáze a týmový režim. Tyto podrobnosti slouží jako historický kontext; nelze potvrdit, že se všechny opakují beze změny v roce 2026.",
+        "features": [
+          "Tematický příběh a volba postavy",
+          "Mise a kvízy",
+          "Sběratelské objekty",
+          "Virtuální liry",
+          "Historicky také mapový a skupinový režim"
+        ],
+        "rewards": "Virtuální měnu lze podle pravidel akce převést na bonusy. Konverzní kurz a podmínky aktuální edice nebyly ověřeny.",
+        "availability": "Itálie, 16.–29. 11. 2026; Sisal News potvrzuje současnou edici.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://www.sisal.it/bonus/special-game-time-escape",
+          "https://www.sisal.it/news/",
+          "https://www.sisal.it/news/time-escape-torna-negli-anni-90-e-riscrivi-il-tuo-futuro-su-sisal"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      },
+      "media": []
     },
     {
       "id": "draftkings-21-rivals-2026",
@@ -615,7 +1004,7 @@
       "category": "soutez",
       "title": "21 Rivals – nová hra typu head-to-head",
       "summary": "DraftKings oznámil novou karetní hru se soupeřením dvou hráčů.",
-      "detail": "Oficiální DraftKings Network popisuje spuštění hry 21 Rivals, ve které je klíčovým formátem přímé soupeření. Jde o nový herní produkt, nikoli další kolo běžné tipovačky. Konkrétní dostupnost a pravidla zde nebyly nezávisle ověřeny.",
+      "detail": "Na rozdíl od tradiční hry proti provozovateli je výsledek založen na porovnání výkonu dvou účastníků. Oborové zdroje popisují krátký vícekolový duel se stejnou sekvencí karet. Přesná implementace a dostupnost nebyly plně ověřeny.",
       "url": "https://dknetwork.draftkings.com/2026/11/10/21-rivals-draftkings-head-to-head-card-game-launch/",
       "date": "2026-11-13",
       "kind": "Nový herní produkt",
@@ -625,13 +1014,35 @@
       "confidence": "Ručně dohledaný oficiální zdroj; dostupnost celého článku se může lišit.",
       "screenshot": null,
       "description": {
-        "what": "DraftKings oznámil novou karetní hru se soupeřením dvou hráčů.",
-        "how": "Oficiální DraftKings Network popisuje spuštění hry 21 Rivals, ve které je klíčovým formátem přímé soupeření. Jde o nový herní produkt, nikoli další kolo běžné tipovačky. Konkrétní dostupnost a pravidla zde nebyly nezávisle ověřeny.",
-        "availability": "USA; článek aktualizovaný 13. listopadu 2026, přesné datum spuštění a jednotlivé jurisdikce zde neověřeny.",
+        "what": "Nový soutěžní karetní formát DraftKings Rivals, v němž proti sobě nastupují dva zákazníci.",
+        "how": "Na rozdíl od tradiční hry proti provozovateli je výsledek založen na porovnání výkonu dvou účastníků. Oborové zdroje popisují krátký vícekolový duel se stejnou sekvencí karet. Přesná implementace a dostupnost nebyly plně ověřeny.",
+        "availability": "USA, listopad 2026. Podle oborových médií je právní režim na Floridě předmětem sporu.",
         "changes": "Oznámen nový herní formát; další změny neověřeny.",
         "type": "Nový herní produkt"
       },
-      "evidenceStatus": "Ručně dohledáno 26. 11. 2026; obrazové podklady budou doplněny při sběru."
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "product": {
+        "definition": "Nový soutěžní karetní formát DraftKings Rivals, v němž proti sobě nastupují dva zákazníci.",
+        "principle": "Na rozdíl od tradiční hry proti provozovateli je výsledek založen na porovnání výkonu dvou účastníků. Oborové zdroje popisují krátký vícekolový duel se stejnou sekvencí karet. Přesná implementace a dostupnost nebyly plně ověřeny.",
+        "features": [
+          "Přímý duel dvou hráčů",
+          "Časově omezený formát",
+          "Více kol",
+          "Porovnání výsledného skóre"
+        ],
+        "rewards": "Jde o produkt s finanční účastí podle místních pravidel; nikoli bezplatnou tipovačku.",
+        "availability": "USA, listopad 2026. Podle oborových médií je právní režim na Floridě předmětem sporu.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://dknetwork.draftkings.com/2026/11/10/21-rivals-draftkings-head-to-head-card-game-launch/",
+          "https://www.draftkings.com/rivals/termsofuse",
+          "https://sbcamericas.com/2026/11/19/draftkings-21-rivals-game-florida/"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      },
+      "media": []
     },
     {
       "id": "sts-maraton-plus-nov2026",
@@ -639,7 +1050,7 @@
       "category": "soutez",
       "title": "STS Maraton – listopadová edice Plus",
       "summary": "Další edice bodované soutěže s průběžným žebříčkem.",
-      "detail": "Oficiální přehled STS uvádí listopadovou edici Plus v rámci dlouhodobého programu Maraton. Mechanika kombinuje sběr bodů a pořadí v žebříčku. Nebyla doložena změna základního principu soutěže.",
+      "detail": "Základní formát Maratonu je čtrnáctidenní soutěž s opakovanou denní kvalifikací. Pravidla jednotlivých edic popisují rozdělení odměn mezi účastníky a další rankingové podmínky. Varianta Plus představuje novou edici, nikoli prokázané zavedení nové platformy.",
       "url": "https://promocja.sts.pl/",
       "date": null,
       "kind": "Opakovaná edice soutěže",
@@ -649,13 +1060,34 @@
       "confidence": "Ručně dohledaný oficiální zdroj; dostupnost celého článku se může lišit.",
       "screenshot": null,
       "description": {
-        "what": "Další edice bodované soutěže s průběžným žebříčkem.",
-        "how": "Oficiální přehled STS uvádí listopadovou edici Plus v rámci dlouhodobého programu Maraton. Mechanika kombinuje sběr bodů a pořadí v žebříčku. Nebyla doložena změna základního principu soutěže.",
-        "availability": "Polsko; listopad 2026. Přesné datum publikace oficiálního přehledu neznámé.",
+        "what": "Časově omezená edice dlouhodobého programu STS Maraton.",
+        "how": "Základní formát Maratonu je čtrnáctidenní soutěž s opakovanou denní kvalifikací. Pravidla jednotlivých edic popisují rozdělení odměn mezi účastníky a další rankingové podmínky. Varianta Plus představuje novou edici, nikoli prokázané zavedení nové platformy.",
+        "availability": "Polsko; listopad 2026.",
         "changes": "Nová tematická edice; změna základní mechaniky nedoložena.",
         "type": "Opakovaná edice soutěže"
       },
-      "evidenceStatus": "Ručně dohledáno 26. 11. 2026; obrazové podklady budou doplněny při sběru."
+      "evidenceStatus": "Česká produktová analýza · ověřeno 26. 11. 2026; omezení uvedena v detailu.",
+      "product": {
+        "definition": "Časově omezená edice dlouhodobého programu STS Maraton.",
+        "principle": "Základní formát Maratonu je čtrnáctidenní soutěž s opakovanou denní kvalifikací. Pravidla jednotlivých edic popisují rozdělení odměn mezi účastníky a další rankingové podmínky. Varianta Plus představuje novou edici, nikoli prokázané zavedení nové platformy.",
+        "features": [
+          "Denní fáze",
+          "Dlouhodobý postup",
+          "Podmínky dokončení",
+          "Rozdělení odměn",
+          "Případný ranking edice"
+        ],
+        "rewards": "Přesný fond a rozdělení cen listopadové edice nebyly ověřeny v aktuálním oficiálním regulaminu.",
+        "availability": "Polsko; listopad 2026.",
+        "unknowns": "Podrobnosti, které nejsou v doložených zdrojích, nebyly doplněny odhadem.",
+        "language": "cs",
+        "reviewed": "2026-11-26",
+        "sources": [
+          "https://promocja.sts.pl/"
+        ],
+        "method": "Ručně zpracovaná česká produktová analýza veřejných zdrojů"
+      },
+      "media": []
     }
   ],
   "updated": "2026-11-26",
