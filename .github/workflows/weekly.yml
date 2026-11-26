@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  models: read
 concurrency:
   group: weekly-monitor
   cancel-in-progress: false
@@ -26,6 +27,7 @@ jobs:
         run: python scripts/monitor.py
       - name: Enrich details and collect visual evidence
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           CAPTURE_PUBLIC_SCREENSHOTS: ${{ vars.CAPTURE_PUBLIC_SCREENSHOTS || 'true' }}
         run: python scripts/enrich.py
