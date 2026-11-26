@@ -6,28 +6,76 @@ on:
   workflow_run:
     workflows: ['Týdenní monitoring konkurence']
     types: [completed]
+    branches: [main]
+
 permissions:
   contents: read
+  actions: read
   pages: write
   id-token: write
+
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
+
 jobs:
-  deploy:
+  build:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
+    outputs:
+      artifact_name: ${{ steps.artifact-name.outputs.name }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - uses: actions/configure-pages@v6
+      - name: Prepare static site
+        run: |
+          mkdir -p site
+          cp index.html site/
+          if [ -d screenshots ]; then cp -r screenshots site/; fi
+          test -s site/index.html
+      - name: Set unique artifact name
+        id: artifact-name
+        run: echo "name=github-pages-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}" >> "$GITHUB_OUTPUT"
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          name: ${{ steps.artifact-name.outputs.name }}
+          path: site
+          retention-days: 3
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-      - uses: actions/configure-pages@v5
-      - run: mkdir -p site && cp index.html site/ && cp -r screenshots site/
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
-      - uses: actions/deploy-pages@v4
+      - name: Wait for artifact availability
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ARTIFACT_NAME: ${{ needs.build.outputs.artifact_name }}
+        run: |
+          set -euo pipefail
+          test -n "$ARTIFACT_NAME"
+          for attempt in $(seq 1 15); do
+            if result=$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}/artifacts?per_page=100" --paginate --jq '.artifacts[] | select(.expired == false) | .name'); then
+              if printf '%s\n' "$result" | grep -Fxq "$ARTIFACT_NAME"; then
+                echo "Pages artifact ready: $ARTIFACT_NAME"
+                exit 0
+              fi
+            fi
+            echo "Artifact not yet visible (attempt $attempt/15)"
+            sleep 10
+          done
+          echo "::error::The uploaded Pages artifact was not visible via GitHub API. Start a fresh workflow run."
+          exit 1
+      - name: Deploy GitHub Pages
         id: deployment
+        uses: actions/deploy-pages@v5
+        with:
+          artifact_name: ${{ needs.build.outputs.artifact_name }}
+          timeout: 600000
+          error_count: 15
